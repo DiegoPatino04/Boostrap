@@ -1,0 +1,45 @@
+<div class="img6_cap">
+          <p>
+            practicado con anterioridad. <br><br>
+            Desconozco el motivo real, pero cuando terminé <br>
+            de mostrarle a mi abuelo lo que había ensayado a <br>
+            diario desde la última sesión, un par de lágrimas se <br>
+            resbalaron por las mejillas del viejo. Pensé que me <br>
+            había equivocado en algo, era probable que mis <br>
+            habilidades para tocar el requinto, auto imaginadas <br>
+            por mi corta percepción auditiva, no fueran lo <br>
+            suficientemente claras y al final todo el intento <br>
+            fuera una decepción. No obstante, mi abuelo se secó <br>
+            las lágrimas, me pidió el requinto, y empezó a <br>
+            mostrar me otros acordes que no conocía.
+          </p>
+          <img src="assets/cap7/lagrimas.png" alt="">
+        <div class="page_number">55</div>
+<!--BACK-->
+<p>
+                    El ensayo terminó con un abrazo. Mi abuelo se  <br>
+                    despidió y salió de la casa sin decir mucho. Durante  <br>
+                    la cena mi mamá le contó con asombro que el viejo   <br>
+                    había llorado y que incluso me había abrazado. Mi   <br>
+                    papá resaltó que ni siquiera cuando se casó con mi    <br>
+                    mamá había recibido un abrazo de su padre. El amb- <br>
+                    iente se sentía rodeado de melancolía, pero tam- <br> 
+                    bién de esperanza. Siento que mi papá no se sentía <br>
+                    como el hijo que mi abuelo habría deseado, pero <br>
+                    también es cierto que cumplir con los deseos ajenos <br>
+                    es bastante complicado. <br><br>
+                    Debo admitir que para este momento me sentía <br>
+                    mucho más parte de la ciudad y su entorno. En el <br>
+                    colegio varios de mis compañeros comenzaron a <br>
+                    ser mis amigos. En las clases de música pasé de ser <br>
+                    el extraño que estorbaba en el grupo a ser el “re- <br>
+                    quintero”. Aunque dudo que ese sea el nombre que <br>
+                    se le da al que toca el instrumento. <br><br>
+                    Cada vez estaba más cerca el día del recital y los <br>
+                    nervios comenzaban a acumularse. Las canciones <br>
+                    que estábamos preparando no terminaban de en- <br>
+                    samblarse y el disgusto empezaba a surgir. La pri- <br>
+                    mera discusión vino porque las guitarras íbamos <br>
+                    muy rápido y no nos sincronizábamos con la per-
+        </p>
+        <div class="page_number">56</div>

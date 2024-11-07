@@ -1,0 +1,6 @@
+ <div class="img12_cap">
+          <img src="assets/MINEdu logo.png" alt="">
+        </div>
+        <div class="page_number">75</div>
+<!--BACK-->
+<div class="page_number"></div>

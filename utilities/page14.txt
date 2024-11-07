@@ -1,0 +1,30 @@
+<img src="assets/cap3/motones2.png" alt="" />
+        <div class="page_number">27</div>
+<!--BACK-->
+ <p>
+          No quise que mis papás supieran lo que me ha- <br>
+          bía pasado. Tampoco lo sabrían por los profesores, <br>
+          pues al final todo sucedió en medio del tumulto y <br>
+          fue tan rápido, que ni tiempo hubo para que alguien <br>
+          más se diera cuenta. A la mañana del otro día me <br>
+          sentía angustiado, pensé que me iban a moler a gol- <br>
+          pes y yo estaba en desventaja, eran dos contra uno. <br>
+          Apenas entré a la escuela busqué a uno de mis ami- <br>
+          gos, no me le separé en todo el día. <br><br>
+          Pensaba que tener carácter significaba lo mismo </br>
+          que tener fuerza para afrontar las dificultades de la <br>
+          vida. Estaba muy equivocado, bastante equivocado. <br>
+          Descubrí que las dificultades a veces eran más gran- <br>
+          des de lo que se esperaba y que no siempre se con- <br>
+          taba con la fortaleza suficiente. Sí, digo todo esto <br>
+          es porque intento disfrazar que no soy más que un <br>
+          cobarde. Me daba miedo pelear. <br><br>
+          Pero para regresar al inicio de este capítulo, el <br>
+          destino encuentra formas desconcertantes para hi- <br>
+          lar eventos y ponernos en lugares donde refugiar- <br>
+          nos. Llevaba ya varios días procurando no estar <br>
+          solo en ningún espacio de la escuela. Mismos días <br>
+          que mis nuevos enemigos me seguían con la mirada <br>
+          y, mientras estábamos en el recreo, hacían el ade- <br>
+        </p>
+        <div class="page_number">28</div>

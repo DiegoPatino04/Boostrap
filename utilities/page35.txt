@@ -1,0 +1,29 @@
+<div class="img12_cap">
+          <img src="assets/MINEdu logo.png" alt="">
+        </div>
+        <div class="page_number">69</div>
+<!--BACK-->
+<h3>Epílogo</h3>
+        <p>
+          Quien les escribe ahora es el Tomás del presente,<br>
+          el que intentó poner en palabras los recuerdos de la <br>
+          infancia vivida a principios de los dos mil. Esos que <br>
+          alimentan el recóndito espacio en el cerebro reser- <br>
+          vado para la memoria. Les prometí que este relato <br>
+          sería un recorrido que asciende desde las planicies <br>
+          llaneras y se instala en las montañas boyacenses, y <br>
+          creo haberles cumplido. <br><br>
+          El relato que acabaron de leer corresponde a esa <br>
+          parte de mi vida en la que encontré mi esencia. Us- <br>
+          tedes saben, ese instante en el que defines exac- <br>
+          tamente a qué es lo que quieres dedicarte en la vida, <br>
+          ese mismo instante en el que se forjan los sueños. <br><br>
+          La presentación en el colegio salió tal y como la <br>
+          pude haber soñado. No le faltó nada y ese aplauso, <br>
+          junto con la cara de mi abuelo y mis padres, ani- <br>
+          dó una esperanza, forjó el sueño que ahora estoy a <br>
+          punto de culminar. Pero antes, permítanme darles <br>
+          a conocer cómo se han construido estos caminos <br>
+          bordeados por las cuerdas y tonos del requinto.
+        </p>
+        <div class="page_number">70</div>

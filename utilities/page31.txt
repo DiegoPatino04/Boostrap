@@ -1,0 +1,44 @@
+<h3>Capítulo VIII</h3>
+        <p>
+          La ruana se la tuvimos que pedir prestada al veci- <br>
+          no. Curiosamente el frío del que tanto me quejaba <br>
+          ese día no estaba, se sentía calor y el sol había <br>
+          salido desde temprano. Cuando llegamos al colegio
+          mis papás se fueron para el auditorio mientras yo 
+          iba al salón donde podíamos ensayar una última vez. <br>
+          Para entonces las canciones ya no se nos desin- <br>
+          cronizaban tanto y el disgusto que nos cargábamos <br>
+          se había disipado, las aguas estaban mansas. La voz <br>
+          y las guitarras nos encontrábamos en el mejor mo- <br>
+          mento. Recuerdo que un par de semanas antes de <br>
+          la presentación, la profesora de música nos grabó <br>
+          con su cámara digital y nos hizo ver el video varias <br>
+          veces. Ahí nos dimos cuenta de lo que no nos esta- <br> 
+          ba saliendo bien. Siento que al principio costó un <br>
+          poco entender que el error podía estar en el actuar <br> 
+          del otro tanto como podía estar en el propio. <br><br>
+          Una semana antes de la presentación decidimos <br>
+          extender los horarios de ensayo y nos queda- <br>
+          mos hasta tarde en el colegio. Prácticamente nos 
+          quedábamoshasta que los de la jornada contraria salieran
+        </p>
+        <div class="page_number">61</div>
+<!--BACK-->
+<div class="img9_cap">
+          <img src="assets/cap8/grito.png" alt="">
+          <p>
+            y, para ese momento, ya la luna se podía apreciar en <br>
+            el cielo tunjano. Mi mamá me esperaba a la salida y <br>
+            volvíamos a casa mientras nos comíamos una arepa <br>
+            recién horneada, de las que vendían en una de lasbr <br>
+            panaderías del barrio. <br> <br>
+            Un par de días antes del evento rompí sin querer <br>
+            un par de cuerda del requinto. Tuve que parar por <br>
+            un día mientras conseguíamos el reemplazo. Negar <br>
+            que sentí angustia sería inútil, por alguna razón ima- <br>
+            giné que si dejaba de tocar el requinto por mucho <br>
+            tiempo iba a olvidar lo que había aprendido. <br> <br>
+            Las ansias por la presentación eran notorias. In-
+          </p>
+        </div>
+        <div class="page_number">62</div>

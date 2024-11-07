@@ -1,0 +1,32 @@
+ <p>
+          La historia que me contaría a continuación la re- <br>
+          cuerdo casi de memoria: <br><br>
+          “Requintos hay muchos, pero éste es el nuestro, <br>
+          con el que se hace la carranga. Lo de acá, a usted lo <br>
+          criaron en el llano y eso no está mal, pero es que la <br>
+          tierra llama. Con otros tres que tocaban la guitarra, <br>
+          la guacharaca y el cuatro nos íbamos por las veredas <br>
+          y entonábamos ritmos como los que sonaban en el <br>
+          radio. Los Carrangueros de Ráquira sacaban cada <br>
+          tanto nuevas canciones y nosotros nos reuníamos <br>
+          en las tiendas para intentar imitar el sonido de las <br>
+          cuerdas. Ahí nos daban cerveza y a veces merca- <br>
+          do para que les hiciéramos serenatas hasta la media <br>
+          noche. Cuando ya más o menos teníamos listas las <br>
+          canciones nos aventurábamos por las veredas que <br>
+          le digo y en cualquier fiesta o tienda nos sentába- <br>
+          mos a tocar. Entre los cuatro cantábamos, así no <br>
+          se nos escuchaba lo desafinados y, al final, una que <br>
+          otra parejita se nos arrimaba y bailaban frente a no- <br>
+          sotros. Yo le agarré cariño al requinto porque era lo <br>
+          único que había en la casa. La guitarra mi papá la <br>
+          había empeñado tiempo atrás para saldar una deu- <br>
+          da. En fin, Tomasito, esto es lo que le queda y usted <br>
+          verá si le saca provecho ¡Será que le gana lo llanero
+        </p>
+        <div class="page_number">49</div>
+<!--BACK-->
+ <div class="img5_cap">
+          <img src="assets/cap6/requintomagicofinal.png" alt="">
+        </div>
+        <div class="page_number">50</div>

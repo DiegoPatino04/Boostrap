@@ -1,0 +1,15 @@
+<p>
+          pechaba que el video que mi papá me había mos- <br>
+          trado, junto con su explicación, no servía sino para <br>
+          confundirme y hacerme caer más aún en la broma. <br><br>
+          Me dio rabia de solo pensar que me estaban vien <br>
+          do la cara de idiota. Así que le exigí a mi papá que <br>
+          nos adelantáramos un poco y fuéramos a recoger el <br>
+          bendito requinto que tenía mi abuelo en la casa, a <br>
+          fin de cuentas, era como mi herencia… y si es que <br>
+          el requinto ese al final sí existía, yo tenía que verlo <br>
+          en persona.
+        </p>
+        <div class="page_number">43</div>
+<!--BACK-->
+<div class="page_number">44</div>

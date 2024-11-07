@@ -1,0 +1,42 @@
+<!--FRONT-->
+
+<div class="front_1">
+        <p>
+          Los primeros meses fueron duros, mis abuelos <br />
+          maternos no estaban contentos con el embarazo. <br />
+          Les preocupaba el futuro del trabajo en la alcaldía, <br />
+          hacían mucho énfasis en que no había un solo lugar <br />
+          en el que quisieran a una mujer gestante y, siento <br />
+          que no se equivocaban. A los pocos meses de haber <br />
+          nacido le hicieron la vida imposible a mi mamá en <br />
+          el puesto, hasta que tuvo que renunciar. <br /><br />
+          Al principio rentaron un apartamento cerca al <br />
+          centro, pero la bulla y los sonidos de los carros no <br />
+          dejaban dormir a mi mamá. Eso no era lo único, <br />
+          también estaban los antojos, a veces eran aguaca- <br />
+          tes, otras veces fresas con arequipe. Mi mamá me <br />
+          cuenta que una noche tuvo tantas ganas de comer <br />
+          bocadillo veleño que sentía nauseas de tan solo ver <br />
+          cualquier comida que no fuese la que añoraba. Mi <br />
+          papá, por otro lado, recuerda esas noches con algo <br />
+          de fastidio. Le encanta decir que estuvo a punto de <br />
+          tomar una bicicleta y perderse llano adentro. Segu- <br />
+          ro allá encontraría una que otra guayaba para hacer <br />
+          el bocadillo. <br /><br />
+          Para cuando la semana cuarenta se acercaba, mi <br />
+          papá había conseguido un segundo piso en una <br />
+          casa fuera del centro. Varios amigos y familiares se <br />
+        </p>
+        <div class="page_number">15</div>
+      </div>
+
+<!--BACK-->
+
+
+ <p>
+          acercaron para desearle buena suerte a mi mamá en <br />
+          el parto. Según lo que conozco de la historia, todo <br />
+          el proceso duró dos días. Mis abuelos ya no estaban <br />
+          tan inconformes cuando me vieron por primera vez.
+        </p>
+        <div class="page_number">16</div>

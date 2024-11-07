@@ -1,0 +1,32 @@
+<!--FRONT-->
+     <p>
+            gaban en bandadas a descansar, sacaba de uno de <br />
+            sus bolsillos una bolsa de papel donde guardaba las <br />
+            galletitas. Yo disfrutaba de la vista y la comida. Fui- <br />
+            mos muy felices cada una de esas tardes. <br /><br />
+            Mi papá se había retirado de la policía cuando <br />
+            mi mamá quedó embarazada. Se habían conocido <br />
+            cuando fue enviado a Yopal. En sus propias pala- <br />
+            bras, se percibía como un “gran servidor de la pa- <br />
+            tria”. A mí me costaba un poco entender a qué se <br />
+            refería. Hoy en día me cuesta incluso más, la línea <br />
+            tiende a ser un poco difusa. <br /><br />
+            Mi mamá trabajaba en la alcaldía como asisten- <br />
+            te de tesorería, estaba terminando sus estudios de
+          </p>
+          <div class="page_number">13</div>
+<!--BACK-->
+        <div class="img3_cap">
+          <p>
+            pregrado. Dicen que fue un flechazo, que ambos <br />
+            supieron que querían estar juntos y sí, se llevan muy <br />
+            bien. Es extraño. Mi mamáes una llanera que habla <br />
+            fuerte, que asusta cuando se enoja, esuna mujer <br />
+            que anda por la vida sin demostrar muchos miedos,<br />
+            contenacidad. Mientras que mi papá, proveniente <br />
+            de una vereda cercade Pesca, en Boyacá, era una <br />
+            persona más apacible, más temerosa si se quiere.
+          </p>
+          <img src="assets/cap1/final4.png" alt="" />
+          <div class="page_number">14</div>
+        </div>

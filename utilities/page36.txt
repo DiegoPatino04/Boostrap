@@ -1,0 +1,54 @@
+ <p>
+          La vida de mi familia no se alejó de Tunja, allí mi <br>
+          mamá consiguió continuar con su carrera universi- <br>
+          taria y tras unos años se hizo con un trabajo en una <br>
+          empresa privada. Para el caso de mi papá, encontró <br>
+          algunos ascensos y logró ser supervisor en su cargo. <br><br>
+          Como cada año la necesidad de ser cuidado y vigila- <br>
+          do por ellos se disminuía, la oportunidad de crecer <br>
+          económicamente aumentó. <br><br>
+          Por mi parte, terminé mis estudios en el mismo <br>
+          colegio al que había llegado en un principio. Allí <br>
+          conocí a mis mejores amigos. Con ellos alcancé a <br>
+          recorrer una gran parte de Boyacá, me enamoré de <br>
+          sus pueblos con tonalidades coloniales y casitas clá- <br>
+          sicas de un piso donde todos se toman fotos. <br><br>
+          Con mi abuelo seguí compartiendo muchos espa- <br>
+          cios. En una navidad me regaló un requinto nuevo, <br>
+          de los que ya se podían conectar a un amplificador e <br>
+          incluso podían usarse para sonidos más metálicos y <br>
+          eléctricos. Poco antes de terminar octavo me enteré <br>
+          de que mi abuelo había vendido la casa cerca a So- <br>
+          gamoso. Le había escuchado quejarse por la expan- <br>
+          sión urbana que cada vez más le quitaba lo verde a <br>
+          su terreno. Me sentí triste porque imaginé que se <br>
+          iría a vivir a otro lado con más prados y montañas. 
+        </p>
+        <div class="page_number">71</div>
+<!--BACK-->
+<p>
+      Pero no, el viejo usó el dinero para comprarse una <br>
+      casa en el barrio donde vivíamos. Recuerdo muy <br>
+      bien cuando nos dio la noticia. Me miró asegurando <br>
+      que ahora sí iba a mejorar en el requinto. <br><br>
+      Los años transcurrían y esos momentos de la <br>
+      adolescencia donde se sufre de fastidio por cada <br>
+      opinión ajena nunca llegó. De hecho, puedo decir <br>
+      que la relación con mi familia se fortaleció. Al final <br>
+      necesitábamos mantenernos cerca, combatíamos el <br>
+      frío con el calor familiar. <br><br>
+      Faltando apenas unos meses para graduarme del <br>
+      bachillerato, nos enteramos de una convocatoria <br>
+      para intérpretes jóvenes de instrumentos musicales <br>
+      tradicionales. Las indicaciones mencionaban que, <br>
+      de ganar la convocatoria, el ganador podría esco- <br>
+      ger una universidad donde estudiar música a nivel <br>
+      profesional. El primer paso sería grabar y enviar un <br>
+      video interpretando el instrumento. <br><br>
+      Para ese momento conocía el requinto como si <br>
+      yo lo hubiese inventado, sabía exactamente cómo <br>
+      sonaba cada una de sus cuerdas en cada uno de sus <br>
+      trastes. Mi abuelo decía que, si no se era capaz de <br>
+      reconocer cada sonido del instrumento, difícilmen-
+    </p>
+    <div class="page_number">72</div>

@@ -1,0 +1,247 @@
+/* Basic styling and colors */
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-color: white;
+    color: #4F0471;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header styling */
+.header img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Main title styling */
+.main-title {
+    color: #2CAFE6;
+    font-size: 3rem;
+    font-weight: bold;
+    margin-top: 1.5rem;
+}
+
+/* Subtitle styling */
+.subtitle {
+    color: #4F0471;
+    font-size: 2rem;
+    text-align: left;
+    margin-left: 2rem;
+}
+
+/* Text styling for paragraphs */
+.text-justify {
+    font-size: 1.25rem;
+    margin: 1.5rem 2rem;
+    text-align: justify;
+}
+
+/* Menu styling */
+.menu {
+    background-color: #2CAFE6;
+    padding: 0.25rem;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.menu .btn {
+    color: white;
+    font-weight: bold;
+    background-color: #2CAFE6;
+    border: none;
+    border-radius: 20px;
+    padding: 0.5rem 1rem;
+}
+
+.menu .dropdown-menu {
+    background-color: #E68F2C;
+    position: absolute;
+    top: 100%;
+}
+
+.book {
+    display: flex;
+    margin: auto;
+    width: 400px;
+    height: 600px;
+    pointer-events: none;
+    transform-style: preserve-3d;
+    transition: translate 2s;
+    translate: calc(min(var(--c), 1) * 50%) 0%;
+    margin-top: 2rem;
+}
+
+.page {
+    --thickness: 5;
+    flex: none;
+    display: flex;
+    width: 100%;
+    pointer-events: all;
+    user-select: none;
+    transform-style: preserve-3d;
+    border: 1px solid #0008;
+    transform-origin: left center;
+    transition:
+        transform 1s,
+        rotate 1s ease-in calc((min(var(--i), var(--c)) - max(var(--i), var(--c))) * 50ms);
+    translate: calc(var(--i) * -100%) 0px 0px;
+    transform: translateZ(calc((var(--c) - var(--i) - 0.5) * calc(var(--thickness) * 1px)));
+    rotate: 0 1 0 calc(clamp(0, var(--c) - var(--i), 1) * -180deg);
+    position: relative;
+}
+
+.page img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.front,
+.back {
+    flex: none;
+    width: 100%;
+    padding: 1.5rem;
+    backface-visibility: hidden;
+    background-color: #fff;
+    translate: 0px;
+}
+
+
+.back {
+    background-image: linear-gradient(to right, #fff 80%, #ddd 100%);
+    translate: -100% 0;
+    rotate: 0 1 0 180deg;
+}
+
+
+/* Footer styling */
+.footer {
+    background-color: #2CAFE6;
+    color: white;
+    padding: 2rem 1rem;
+    margin-top: auto;
+    /* Pushes the footer to the bottom */
+}
+
+.footer-content h3 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.footer .row {
+    text-align: left;
+}
+
+.footer .col {
+    margin-bottom: 1rem;
+}
+
+.footer-logos {
+    justify-content: center;
+}
+
+.footer .logo {
+    width: 50px;
+    height: auto;
+}
+
+.footer .dropdown-item {
+    color: #4F0471;
+}
+
+.footer .dropdown-item:hover {
+    background-color: #FFD8A0;
+}
+
+.front p,
+.back p {
+    font-family: 'Garamond';
+    font-size: 14px;
+    margin-bottom: 1rem;
+    text-align: justify;
+    color: black;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+
+.front h1,
+.front h2,
+.front h3,
+.back h1,
+.back h2,
+.back h3 {
+    font-family: 'Ink Free', cursive;
+    font-size: 24px;
+    margin-top: 1rem;
+    color: black;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.index-list {
+    list-style-type: none;
+    padding: 0;
+    font-family: Garamond;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.index-list li {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+    margin: 5px 0;
+}
+
+.index-list li span:first-child {
+    color: #444;
+}
+
+.index-list li span:last-child {
+    color: #888;
+}
+
+.page_number {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 12px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    width: 100%;
+}
+
+.imageChapter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.imageChapter {
+    margin-top: 15%;
+    max-width: 100%;
+    height: auto;
+    margin-left: 2rem;
+}
+
+.front {
+    padding-left: 0;
+}
+
+.back {
+    padding-top: 25px;
+    padding-right: 0%;
+}

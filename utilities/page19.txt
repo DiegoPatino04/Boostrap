@@ -1,0 +1,16 @@
+<h3>capitulo V</h3>
+        <p>
+          La madrugada a las cinco de la mañana dolía to- <br>
+          dos los días. El desayuno con agua de panela calen- <br>
+          taba la panza por unos minutos, pero apenas salía <br>
+          a la calle, la sangre se enfriaba y el calor huía, para <br>
+          volver con el sol del mediodía. Yo usaba bufanda, <br>
+          gorro y guantes. Algunos días incluso me ponía dos <br>
+          pares de medias o usaba un pantalón de sudadera <br>
+          por debajo del pantalón del uniforme.
+        </p>
+        <div class="page_number">37</div>
+<!--BACK-->
+ <div class="images">
+          <img src="assets/cap5/tomasropa.png" alt="">
+          <div class="page_number">38</div>

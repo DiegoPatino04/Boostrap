@@ -1,0 +1,46 @@
+<p>
+          El sueño del trasnocho me atacó antes de la úl- <br>
+          tima hora de clase del día siguiente. Caí dormido <br>
+          sobre el puesto y no tuve como recomponerme. La <br>
+          directora de curso me despertó moviendo mi hom- <br>
+          bro con suavidad, quiso saber qué me ocurría y si <br>
+          estaba pasando por alguna dificultad. Antes de que <br>
+          pudiera responderle, les pidió a mis compañeros <br>
+          que dejaran el salón ordenado y limpio ¡Me había <br>
+          dormido toda la clase! Cuando volvió a mirarme, <br>
+          no me resistí y le conté cómo me sentía respecto a <br>
+          la presentación que cada vez estaba más cerca en el <br>
+          calendario. <br><br>
+          Uno de los consejos que me dio logró animarme <br>
+          un poco. Ella me preguntó si sentía alguna alegría <br>
+          cuando ensayaba con mi requinto y la verdad es que sí, <br>
+          sí la sentía. Me sobrellevaba una confianza y sere- <br>  
+          nidad que, hasta el día de hoy siento cuando tengo <br>
+          un requinto en mis manos. La profe me dijo que esa <br>
+          era la respuesta que necesitaba, pues muchas perso- <br>
+          nas llegan a nuestras vidas y a veces nos obsequian <br>
+          un algo que no pensábamos necesitar, pero que nos <br>
+          complementa un poquito el vacío que a ratos senti- <br>
+          mos. Así como la presencia de mi abuelo en mi vida <br>
+          tenía el propósito de demostrarme que sí tengo un
+        </p>
+        <div class="page_number">59</div>
+<!--BACK-->
+<div class="img8_cap">
+          <p>
+            lugar en este territorio, el tocar un requinto era el <br>
+            complemento que me faltaba para hilarme con la <br>
+            cultura de acá, que también es mía. <br><br>
+            Mis amigos me estaban esperando afuera del sa- <br>
+            lón entre risas por haberme quedado dormido. En <br>
+            ellos la curiosidad por saber si me habían regañado <br>
+            por quedarme dormido se alzaba. Dudaron de mi <br>
+            versión y aseguraban que no quería contarles la ver- <br>
+            dad sobre mi discusión con la profesora porque así <br>
+            no pasaría tanta vergüenza. Yo también me reía, al <br>
+            final me gustó sentirme acompañado por el grupo.
+          </p>
+          <img src="assets/MINEdu logo.png" alt="">
+        </div>
+        <div class="page_number">60</div>
+      </div>

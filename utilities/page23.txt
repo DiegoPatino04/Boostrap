@@ -1,0 +1,42 @@
+<h3>capitulo VI</h3>
+        <P>
+          El viaje tenía como destino Sogamoso. Bueno, <br>
+          realmente íbamos hacia una pequeña casa antes de <br>
+          llegar a Sogamoso, escondida entre unas montañas, <br>
+          como resistiéndose a los avances de las fábricas y <br>
+          edificios que se extendían como musgo en la ciu- <br>
+          dad. <br><br>
+          Como yo lo recuerdo, mi abuelo paterno era un <br>
+          hombre con carácter de ermitaño que odiaba salir <br>
+          de su casa para algo que no fuera esencial o necesa- <br>
+          rio. Así que sus visitas a nuestra casa se reducían a <br>
+          cero. Según mis papás, la última vez que nos visitó <br>
+          era cuando yo había nacido. Por lo que mi recuerdo <br>
+          de él venía de algunas fotos que mi papá me mos- <br>
+          traba cada tanto. <br><br>
+          Su casa no era tan pequeña, solo que sí se notaba <br>
+          el paso del tiempo y los efectos del descuido. Gran <br>
+          parte de su estructura estaba formada por maderas <br>
+          gruesas que sostenían un techo que tenía algunas <br>
+          tejas de zinc y otras de aluminio. Las ventanas se <br>
+          habían puesto opacas de la mugre y es que seguro a <br>
+          mi abuelo paterno no le gustaba mucho el tema de
+        </P>
+        <div class="page_number">45</div>
+<!--BACK-->
+<img src="assets/cap6/casaabuelo.png" alt="" />
+          <p>
+            la limpieza. <br><br>
+            El viejo estaba cerca de cumplir su primera déca- <br>
+            da como viudo, mi abuela había fallecido por culpa <br>
+            de una enfermedad. Desde ahí, se encerró en su <br>
+            terreno y no le encontró brillo a nada más sino a <br>
+            estar ahí, sentado en una silla protegida por un parasol enterrado en la tierra. Convivía con unos <br>
+            perros que alimentaba cada tanto y, únicamente, viajaba a
+            la ciudad para reclamar el dinero de su <br>
+            pensión de policía. Imagino que por eso mi papá también había sido policía en un principio. <br><br>
+            Cuando llegamos, tuvimos que esperar a que sa- <br>
+            liera a recibirnos porque los perros no hacían más <br>
+            que ladrar y, la verdad, sí se les veía un poco la rabia
+          </p>
+          <div class="page_number">46</div>

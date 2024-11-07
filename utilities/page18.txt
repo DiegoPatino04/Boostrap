@@ -1,0 +1,30 @@
+<img src="assets/cap4/casa.png" alt="">
+        <div class="page_number">35</div>
+<!--BACK-->
+<p>
+          nuevo colegio en el que me tocaría estudiar. Me di- <br>
+          jeron que lo sabría muy pronto, que no me preocu- <br>
+          para aún. Varios días pasaron para nosotros antes <br>
+          de amoblar del todo el nuevo hogar. Durante esos <br>
+          días, mi papá salía en la mañana a entregar papeles <br>
+          y alistar lo necesario para el contrato. Con mi mamá <br>
+          caminábamos en las tardes para conocer el barrio <br>
+          y algunos lugares reconocidos. Ahí encontré uno <br>
+          de mis lugares favoritos en Tunja: El Pozo Donato, <br>
+          que, según nos contaban unos señores, era un sitio <br>
+          donde los indígenas de épocas anteriores tiraban <br>
+          piezas de oro al agua como tributo. Dichas piezas <br>
+          se habían perdido en ese pozo que no tenía fondo, <br>
+          como lo relataban las leyendas. <br><br>
+          Una tarde, lo recuerdo con perfecta nitidez, unos <br>
+          muchachos universitarios estaban dando un peque- <br>
+          ño concierto, algunas personas bailaban en círculos. <br>
+          Ese día conocí la carranga en vivo y en directo, era <br>
+          electrizante. Todos tenían unas guitarras, algunas <br>
+          más grandes, otras más pequeñas. Sonaban con mu- <br>
+          cha fuerza, con una rapidez que convulsionaba los <br>
+          pies de las personas que bailaban alrededor. Fue una <br>
+          experiencia que sin duda me marcó, sobre todo si es <br>
+          que se me ocurre relacionar lo que vendría después.
+        </p>
+        <div class="page_number">36</div>

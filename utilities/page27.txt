@@ -1,0 +1,54 @@
+ <h3>capitulo VII</h3>
+        <p>
+          Como un caballero inglés, así se presentó mi <br>
+          abuelo en la casa donde vivíamos en Tunja. Saludó <br>
+          a mi mamá con una gentileza que no recordaba ha- <br>
+          ber visto en mi familia antes. Pidió que le sirvieran <br>
+          un tinto mientras se sentaba en la mesa. Llamó por <br>
+          mi nombre con una voz grave y resonante. Empe- <br>
+          zaba la segunda clase. <br><br>
+          El requinto tenía prácticamente las mismas no- <br>
+          tas que la guitarra, pero contemplaba muchas más <br>
+          variaciones. Al parecer servía para algunos ritmos <br>
+          folclóricos aparte de la guitarra y según mi abue- <br>
+          lo, otrora también era frecuente encontrarlo en la <br>
+          música llanera. Yo por mi parte no tenía registro de <br>
+          ello. <br><br>
+          Intentamos tocar una canción completa. Lamen- <br>
+          tablemente no lo conseguí, el ritmo era más rápido <br>
+          de lo que mis manos alcanzaban y lo delgado que <br>
+          eran las cuerdas terminaron por cortarme los de- <br>
+          dos. Si el conocimiento era preciso, entonces había <br>
+          completado el primer paso. Luego de unas horas <br>
+          saldrían ampollas y, en cuanto las ampollas curasen, <br>
+          mis dedos estarían listos para tocar cualquier can-
+        </p>
+        <div class="page_number">53</div>
+<!--BACK-->
+<p>
+          ción. <br><br>
+          Mi abuelo se quedó hasta el almuerzo. Mi papá <br>
+          se escapó un ratico del trabajo para acompañarnos. <br>
+          Fue un espacio corto en nuestro día, pero nos sir- <br>
+          vió para sentirnos a gusto en familia. Yo me sentí <br>
+          un poco más cercano a todo lo que el cambio de <br>
+          vida traía. Ya no me sentía tanto como un extraño <br>
+          alejado de su tierra. <br><br>
+          La despedida trajo consigo una nueva cita. Una <br>
+          semana después, mi abuelo nuevamente se presen- <br>
+          taba en la casa. Aunque esta vez, no llegó con las <br>
+          manos vacías. Traía una bolsa con unas libras de <br>
+          carnes y algunos vegetales. Según le entendí, to- <br>
+          dos los vecinos intercambiaban lo que el campo les <br>
+          daba. El que tenía leche, recibía carne, el que culti <br>
+          vaba cebollas, recibía zanahorias y así. Podría hasta <br>
+          jurar que, en el campo, así como en la ciudad, solo <br>
+          se intercambiaban cosas con dinero de por medio,<br>
+          pero al parecer la solidaridad en el campo era algo <br>
+          importante para la supervivencia. <br><br>
+          Esa tarde yo me sentía mucho más alineado con <br>
+          la postura para agarrar el requinto e iniciar a tocar. <br>
+          Ya me sabía los acordes de la primera canción<br>
+          que habíamos
+        </p>
+        <div class="page_number">54</div>

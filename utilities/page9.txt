@@ -1,0 +1,31 @@
+ <h3>Capitulo 2</h3>
+        <img src="assets/cap2/cap2/cap2.png" alt="" />
+        <div class="page_number">17</div>
+<!--BACK-->
+<p>
+          Todo lo que empieza bien… no tiene por qué <br />
+          terminar mal. Claro, siempre puede haber conflic- <br />
+          tos y obstáculos. No es distinto en el caso de mi <br />
+          familia. Tras tener que renunciar al cargo al volver <br />
+          de la licencia de maternidad, el dinero empezó a es- <br />
+          casear y para mi papá fue cada vez más difícil pagar <br />
+          el arriendo. Los trabajos que le salían ayudando en <br />
+          construcción con sus antiguos colegas patrulleros <br />
+          no eran suficiente. <br /><br />
+          Mis abuelos maternos tuvieron que intervenir una <br />
+          vez se dieron cuenta que no alcanzaba para el mer- <br />
+          cado en la casa. Les ofrecieron cambiarse al campo, <br />
+          a una de las casas que mi abuelo había construido <br />
+          tiempo atrás con un material que le había sobrado, <br />
+          pero que tenía lo necesario para mantener a una fa- <br />
+          milia. Además, mis papás podían ayudar a cuidar un <br />
+          ganado que estaba como olvidado en ese lote. Más <br />
+          o menos se juntó la necesidad con la oportunidad. <br />
+          En ese rancho cumplí mi primer año de vida. Y <br />
+          los otros ocho que vendrían. Mi crianza se mez- <br />
+          cló con tareas como arrear el ganado, corretear a <br />
+          los perros y robarles los huevos a las gallinas. Así <br />
+          aprendí de números antes de llegar a la escuela. Sab- <br />
+          ía que cada gallina ponía un huevito y que la finca
+        </p>
+        <div class="page_number">18</div>

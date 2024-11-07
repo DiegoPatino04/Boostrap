@@ -1,0 +1,49 @@
+          <p>
+            tenía apenas un cuarto de hectárea.<br />
+            Cuando cumplí seis años, pude acompañar a mi<br />
+            papá a ordeñar las vacas y organizar los galpones.<br />
+            Ahí me enteré de que era importante ir a la escue-<br />
+            la y que yo ya estaba en la mejor edad para asistir.<br />
+            Para mi papá era vital estudiar, hacer una carrera, o<br />
+            como él lo llamaba “Hacer algo para no morirse de<br />
+            hambre” Yo, desde mi perspectiva de niño, lo veía<br />
+            todo con un toque de aburrimiento. Ir a encerrarse<br />
+            en un cuarto con otros niños mientras alguien es-<br />
+            cribía garabatos en lo que parecía una pared blanca.<br />
+            No se comparaba en nada a lanzar palitos al aire<br />
+            y esperar a que los perros los atraparan para tener<br />
+            que perseguirlos y quitárselos del hocico. Ahí sí est-<br />
+            aba la diversión.
+          </p>
+          <img src="assets/cap2/cap2/cap2-2.png" alt="" />
+          <div class="page_number">19</div>
+<!--BACK-->
+<p>
+          La escuela más cercana quedaba a unos quince <br />
+          o veinte kilómetros de distancia. Pensar en cami-<br />
+          nar era insólito, por lo que mi mamá puso muy cla-<br />
+          ra sobre la mesa la necesidad de un vehículo. Ahí <br />
+          fue que apareció el renól 12 medio destartaladito. <br />
+          <br />
+          Los primeros días era una novedad subirse al carro,<br />
+          aprender a mirar por los retrovisores, ver los de- <br />
+          más a pie desde el efecto de la velocidad del carro. <br />
+          Era realmente fascinante, aunque con el paso de los <br />
+          días se volvió una decoración más de la rutina. <br />
+          En la escuela teníamos cinco salones, uno por <br />
+          curso, yo entré a primero con catorce niños. La pro- <br />
+          fesora nos daba clases de todo, sabía sumar, escri- <br />
+          bir, podía mostrarnos las partes que tenía una plan- <br />
+          ta y decir de memoria el nombre de casi todos los <br />
+          huesos del cuerpo. <br />
+          <br />
+          En esos salones conocí a mis primeros amigos,<br />
+          también a mis primeros enemigos. Aunque sobre <br />
+          esto hablaré después. Es cierto que las clases me <br />
+          costaban, poner atención a una persona, la misma <br />
+          persona, hablando por horas era complicado. Más <br />
+          cuando en mi cabeza era más importante pensar en <br />
+          cuál juego jugaría con mis compañeros en el patio. <br />
+          Mi favorito era el fútbol con botellas de plástico re-
+        </p>
+        <div class="page_number">20</div>

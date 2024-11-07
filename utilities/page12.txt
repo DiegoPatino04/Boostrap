@@ -1,0 +1,47 @@
+<h3>capitulo III</h3>
+        <p>
+          El destino suele funcionar de maneras muy extra- <br />
+          ñas y tengo pruebas de ello. En la escuela comencé <br />
+          a hablar con muchos de los compañeros de clase. <br />
+          Nos gustaba hacer cosas parecidas, hablábamos de <br />
+          los bichitos que veíamos en las casas donde vivía- <br />
+          mos y acordábamos ponerles nombres que sonaran <br />
+          como si fueran extraterrestres. Como tarea grupal, <br />
+          nos proponíamos cazar algunos ejemplares y llevar- <br />
+          los a la escuela el día siguiente. <br /><br />
+          Claro está, no todos los caminos tienen espinas, <br />
+          mucho menos todas las personas son amables. En <br />
+          mi salón teníamos dos compañeros que empezaron <br />
+          a sacarnos lápices y colores de las cartucheras mien- <br />
+          tras estábamos en el recreo. Cada vez más notába- <br />
+          mos que nos faltaban cosas. Las cajas de colores se <br />
+          veían incompletas y en las casas comenzaron los re- <br />
+          proches. Por alguna razón a mi mamá le molestaba <br />
+          más que se me perdieran los útiles a que perdiera el <br />
+          año. Me dejó muy en claro que los colores y el taja- <br />
+          lápiz que me habían comprado en enero tenían que <br />
+          estar para la tarde del día siguiente.
+        </p>
+        <div class="page_number">23</div>
+<!--BACK-->
+<div class="img4_cap">
+          <img src="assets/cap3/mirada.png" alt="" />
+          <p>
+            Yo no sentía que podía expresarme con el carácter <br />
+            fuerte que tenía mi madre, hasta ese día. En cuanto <br />
+            entré al salón le dije a la profesora que varios de mis <br />
+            colores ya no estaban, y que la historia se repetía <br />
+            con los colores de algunos de mis compañeros de <br />
+            clase. Le dije que seguro teníamos a un ladrón entre <br />
+            nosotros, para entonces no sabíamos que eran dos. <br />
+            <br />
+            La profesora preguntó si alguien había tomado <br />
+            nuestras cosas por error. Nadie se confesó. Luego <br />
+            preguntó quiénes habíamos perdido algo y casi to- <br />
+            dos levantamos la mano. Entonces hubo un silen- <br />
+            cio, no se escuchó ni una sola voz, nada. Tras unos <br />
+            tres minutos la profesora nos pidió sacar el cuader- <br />
+            no de ciencias para revisar la tarea. <br /><br />
+            El día transcurrió con normalidad, tuvimos las
+          </p>
+          <div class="page_number">24</div>

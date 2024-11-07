@@ -1,0 +1,44 @@
+{
+    "book": {
+        "page1": {
+            "front": {
+                "title": "",
+                "content": ""
+            },
+            "back": {
+                "title": "",
+                "content": ""
+            }
+        },
+        "page2": {
+            "front": {
+                "title": "Los caminos del requinto",
+                "content": "Juan Diego Suárez"
+            },
+            "back": {
+                "title": "",
+                "content": "Juan Diego Suárez"
+            }
+        },
+        "page3": {
+            "front": {
+                "title": "Índice.",
+                "content": ""
+            },
+            "back": {
+                "title": "",
+                "content": ""
+            }
+        },
+        "page4": {
+            "front": {
+                "title": "Agradecimientos",
+                "content": "El texto que ahora tienen en sus manos (o en sus <br>pantallas) es un intento más. Sí, un intento más por <br>extraer de la imaginación un relato cuya vida propia <br>respire trazos de boyacensidad. Esa identidad cultural <br>propia de una región que danza, canta, escribe, y sue- <br>ña a través del prisma de sus costumbres. Las mismas <br>que hoy portamos en la ruana que usamos para abatir <br>el frío… o en la carranga que bailamos para amenizar <br>el ambiente. Y es que sobre estas costumbres encon- <br>trarán guiños y referencias a lo largo de los capítulos <br>de este libro. En especial, sobre uno de los artefactos <br>constitutivos de su música: El requinto. <br><br>Este instrumento ha sido elegido como uno de los <br>patrimonios mueble que decoran la riqueza cultural de <br>Boyacá. Algunos lectores (Los más añejos) lo relacio- <br>narán con Javier Moreno, quien lo interpretaba en Los <br>Carrangueros de Ráquira. Los más jóvenes, quizá, lo <br>alcancen a vincular con agrupaciones más recientes. <br>En ambos casos, es indudable que el instrumento <br>musical en cuestión se ha instalado en los rincones <br>de las casas boyacenses y es recordado con grato <br>cariño, pues es también una parte de la herencia viva <br>que nos rodea permeando la radio, la televisión y las <br>redes sociales."
+            },
+            "back": {
+                "title": "",
+                "content": ""
+            }
+        }
+    }
+}

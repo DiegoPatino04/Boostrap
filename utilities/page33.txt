@@ -1,0 +1,18 @@
+<p> 
+          Así que nos paramos al borde de la tarima y nos <br>
+          tomamos de las manos, al agacharnos frente a los <br>
+          asistentes, los aplausos retumbaron. Yo me sentía <br>
+          como en un trance, cuando busqué a mis papás con <br>
+          la mirada, los vi felices. Cuando moví mis ojos a la <br>
+          derecha encontré a mi abuelo aplaudiendo. Fijé mu- <br>
+          cho más mi mirada y noté que mi abuelo tenía lágri- <br>
+          mas en sus ojos, su cara era muy parecida a cuando <br>
+          ensayamos en la casa esa vez. Se sentía orgulloso, <br>
+          quizá tan orgulloso como nunca se había sentido…
+        </p>
+        <div class="page_number">65</div>
+<!--BACK-->
+<div class="img10_cap">
+          <img src="assets/cap8/Negrilla p1.png" alt="">
+        </div>
+        <div class="page_number">66</div>

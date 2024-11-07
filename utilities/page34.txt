@@ -1,0 +1,6 @@
+<div class="img11_cap">
+          <img src="assets/cap8/Negrilla p2.png" alt="">
+        </div>
+        <div class="page_number">67</div>
+<!--BACK-->
+<div class="page_number">68</div>
