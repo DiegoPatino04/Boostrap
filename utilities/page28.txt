@@ -1,6 +1,6 @@
 <div class="img6_cap">
           <p>
-            practicado con anterioridad. <br><br>
+            
             Desconozco el motivo real, pero cuando terminé <br>
             de mostrarle a mi abuelo lo que había ensayado a <br>
             diario desde la última sesión, un par de lágrimas se <br>
@@ -13,7 +13,7 @@
             las lágrimas, me pidió el requinto, y empezó a <br>
             mostrar me otros acordes que no conocía.
           </p>
-          <img src="assets/cap7/lagrimas.png" alt="">
+          <img style="width:210px; margin-left:50px;" src="assets/cap7/lagrimas.png" alt="">
         <div class="page_number">55</div>
 <!--BACK-->
 <p>

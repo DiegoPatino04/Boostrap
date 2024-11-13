@@ -119,6 +119,7 @@ body {
     background-image: linear-gradient(to right, #fff 80%, #ddd 100%);
     translate: -100% 0;
     rotate: 0 1 0 180deg;
+    padding-right: 0%;
 }
 
 
@@ -170,6 +171,7 @@ body {
     color: black;
     margin-left: 1rem;
     margin-right: 1rem;
+    line-height: 1.3;
 }
 
 
@@ -241,7 +243,25 @@ body {
     padding-left: 0;
 }
 
-.back {
-    padding-top: 25px;
+
+.img_cap {
     padding-right: 0%;
+    margin-right: 0%;
+    height: 160px;
+    width: 100%;
+    margin-left: 0%;
+}
+
+.img_cap img {
+    width: 100%;
+    margin-right: 0%;
+    border: none;
+}
+
+.cap2 img {
+    height: min-content;
+    margin-bottom: 15px;
+    width: 82%;
+    margin-left: 55px;
+    object-fit: cover;
 }

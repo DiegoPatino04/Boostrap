@@ -7,7 +7,22 @@
           volver con el sol del mediodía. Yo usaba bufanda, <br>
           gorro y guantes. Algunos días incluso me ponía dos <br>
           pares de medias o usaba un pantalón de sudadera <br>
-          por debajo del pantalón del uniforme.
+          por debajo del pantalón del uniforme.<br><br>
+	  Estar en una escuela rural y pasar a un colegio en <br>
+          la ciudad es como darle giro a la gravedad y quedar <br>
+          todos patas pa arriba. En mi escuelita llanera nos <br>
+          conocíamos todos, sabíamos más o menos quiénes <br>
+          eran nuestros parientes y podíamos socializar sin <br>
+          tanto recelo. Pero en la ciudad no era así. El entor- <br>
+          no, aunque más urbano, era más salvaje… y yo que <br>
+          me alegraba por haberle huido a la pelea. <br> <br>
+	  El ambiente hostil, el frío y la madrugada me tu- <br>
+          vieron de mal humor las dos primeras semanas. En <br>
+          ese lapso solo una clase llamó mi atención, era la <br>
+          clase de música. En un principio me gustó la clase <br>
+          porque la profesora venía del llano y escucharle el <br>
+          acento me hizo sentir un poco más como en casa. <br><br>
+
         </p>
         <div class="page_number">37</div>
 <!--BACK-->

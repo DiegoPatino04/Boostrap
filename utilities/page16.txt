@@ -25,7 +25,7 @@
         </P>
         <div class="page_number">31</div>
 <!--BACK-->
-<div class="img2_cap">
+<div style="margin-right:15px" class="img2_cap">
           <p>
             decían a mi mamá que no se olvidara de su terruño <br>
             y que debía recordar que así estuviese a kilómetros, <br>
@@ -38,7 +38,7 @@
             de nuevo. Había dormido plácidamente mientras el <br>
             halo rojizo del atardecer llanero nos cubría la espal- <br>
             da. El carro se sentía calientito y cada tanto una gar- <br>
-            za volaba por encima de nosotros como a manera
+            za volaba por encima de nosotros como a manera  de despedida. <br>
           </p>
           <img src="assets/cap4/mapa.png" alt="" />
           <div class="page_number">32</div>

@@ -1,9 +1,4 @@
 <p>
-          clases común y corriente. Hasta faltando veinte <br />
-          para salir. La profesora nos pidió pasar al frente, <br />
-          no sin antes poner nuestra maleta sobre la mesa del <br />
-          pupitre. Una por una, cada maleta fue revisada, es- <br />
-          culcada de principio a fin. <br /><br />
           Mi papá siempre decía que los ladrones en este <br />
           país son tan tontos como los que se dejan robar. <br />
           Por eso no teníamos versiones propias de pelícu- <br />
@@ -21,16 +16,15 @@
           dad estaba pasando. Todos entramos en cólera, una <br />
           niña lloró desconsolada, era probable que en la casa <br />
           la tuvieran amenazada, al igual que conmigo. <br /><br />
-          Cuando les preguntaron por qué lo habían hecho,
-        </p>
-        <div class="page_number">25</div>
-<!--BACK-->
-     <p>
+          Cuando les preguntaron por qué lo habían hecho, <br/>
           se quedaron callados, como mudos. La profesora <br />
           les citó a los acudientes para esa misma semana. Al <br />
           mismo tiempo que les pidió que devolvieran cada <br />
           uno de los objetos que habían tomado. <br />
-          <br />
+        </p>
+        <div class="page_number">25</div>
+<!--BACK-->
+     <p>
           Esa semana retornó la tranquilidad al salón. Recu- <br />
           peramos casi todas nuestras cosas y recibimos una <br />
           disculpa pública de los padres de nuestros compa- <br />

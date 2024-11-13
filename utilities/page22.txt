@@ -1,14 +1,18 @@
 <p>
-          pechaba que el video que mi papá me había mos- <br>
-          trado, junto con su explicación, no servía sino para <br>
-          confundirme y hacerme caer más aún en la broma. <br><br>
-          Me dio rabia de solo pensar que me estaban vien <br>
-          do la cara de idiota. Así que le exigí a mi papá que <br>
-          nos adelantáramos un poco y fuéramos a recoger el <br>
-          bendito requinto que tenía mi abuelo en la casa, a <br>
-          fin de cuentas, era como mi herencia… y si es que <br>
-          el requinto ese al final sí existía, yo tenía que verlo <br>
-          en persona.
+Pensé que quizá y, solo quizá, todo este tema
+del requinto era una broma que se tenía para las
+personas que no eran de aquí. Una especie de novatada que le aplicaban a los foráneos, que por
+eso mi mamá no sabía qué decirme, al igual que
+la profesora que evitaba darme algún detalle útil.
+Incluso sospechaba que el video que mi papá me
+había mostrado, junto con su explicación, no servía sino para confundirme y hacerme caer más
+aún en la broma.<br><br>
+Me dio rabia de solo pensar que me estaban
+viendo la cara de idiota. Así que le exigí a mi papá
+que nos adelantáramos un poco y fuéramos a recoger el bendito requinto que tenía mi abuelo en
+la casa, a fin de cuentas, siempre era bueno visitar
+a la familia, y si es que el requinto ese al final sí
+existía, yo tenía que verlo en persona.
         </p>
         <div class="page_number">43</div>
 <!--BACK-->

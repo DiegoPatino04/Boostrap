@@ -1,5 +1,4 @@
- <h3>Capitulo 2</h3>
-        <img src="assets/cap2/cap2/cap2.png" alt="" />
+
         <div class="page_number">17</div>
 <!--BACK-->
 <p>
@@ -20,7 +19,7 @@
           pero que tenía lo necesario para mantener a una fa- <br />
           milia. Además, mis papás podían ayudar a cuidar un <br />
           ganado que estaba como olvidado en ese lote. Más <br />
-          o menos se juntó la necesidad con la oportunidad. <br />
+          o menos se juntó la necesidad con la oportunidad. <br /><br/>
           En ese rancho cumplí mi primer año de vida. Y <br />
           los otros ocho que vendrían. Mi crianza se mez- <br />
           cló con tareas como arrear el ganado, corretear a <br />

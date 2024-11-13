@@ -1,18 +1,5 @@
 <p>
-          Estar en una escuela rural y pasar a un colegio en <br>
-          la ciudad es como darle giro a la gravedad y quedar <br>
-          todos patas pa arriba. En mi escuelita llanera nos <br>
-          conocíamos todos, sabíamos más o menos quiénes <br>
-          eran nuestros parientes y podíamos socializar sin <br>
-          tanto recelo. Pero en la ciudad no era así. El entor- <br>
-          no, aunque más urbano, era más salvaje… y yo que <br>
-          me alegraba por haberle huido a la pelea. <br> <br>
-          El ambiente hostil, el frío y la madrugada me tu- <br>
-          vieron de mal humor las dos primeras semanas. En <br>
-          ese lapso solo una clase llamó mi atención, era la <br>
-          clase de música. En un principio me gustó la clase <br>
-          porque la profesora venía del llano y escucharle el <br>
-          acento me hizo sentir un poco más como en casa. <br><br>
+
           En las primeras clases nos enseñó a leer un pen- <br>
           tagrama siguiendo los ritmos con el golpeteo de <br>
           nuestras palmas en las piernas. Después, nos en- <br>
@@ -21,11 +8,7 @@
           pañeras tenían voz para cantar. La profesora se ani- <br>
           mó, demasiado en mi opinión, y nos pidió que nos <br>
           organizáramos en grupos para preparar un recital <br>
-          para el día de la familia.
-        </p>
-        <div class="page_number">39</div>
-<!--BACK-->
-<p>
+          para el día de la familia.<br><br>
           A mí me integraron en un grupo con dos niños y <br>
           una niña, de las mismas que habían cantado. Como <br>
           acelerados le pidieron a la profesora que nos deja- <br>
@@ -42,6 +25,10 @@
           so. Mi mamá alzó los hombros con cierta desidia, <br>
           tampoco lo sabía. Acordamos que mi papá era el <br>
           idóneo para resolver esa cuestión. <br><br>
+        </p>
+        <div class="page_number">39</div>
+<!--BACK-->
+<p>
           Cuando volvió a la noche, y mientras cenábamos, <br>
           me explicó que el requinto era como una guitarra, <br>
           pero más pequeño y con más cuerdas, que sonaba <br>
@@ -50,5 +37,18 @@
           Carrangueros de Ráquira que se veía algo borroso, <br>
           pero con su dedo me señaló a uno de los señores <br>
           diciéndome que ese era un tal Javier Moreno y que <br>
+          esa guitarrita era el requinto que tanto preguntaba. Aun<br>
+          que siento que divagaba bastante y no estaba muy seguro.<br>
+          Aun así, siguió hablando.<br><br>
+         Mi papá se olvidó de la comida y se puso a  hablar<br>
+	 de cómo en la casa de sus abuelos se escuchaba carranga <br>
+	 casi todo el día. Me contó que a los señores que <br>
+	 aparecían en el video los habían hasta invitado<br>
+	a tocar en Estados Unidos y que
+	habían sido estrellas de la música nacional. En
+	medio de su charla, recordó que, en la casa de sus
+	abuelos, donde ahora vivía su padre (mi abuelo)
+	había un requinto viejito que usaban para las celebraciones familiares. Arreglamos ir a verlo un
+	fin de semana de estos.
         </p>
         <div class="page_number">40</div>

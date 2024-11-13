@@ -1,9 +1,8 @@
-<img src="assets/cap4/casa.png" alt="">
+<img style="margin-left:12px;" src="assets/cap4/casa.png" alt="">
         <div class="page_number">35</div>
 <!--BACK-->
 <p>
-          nuevo colegio en el que me tocaría estudiar. Me di- <br>
-          jeron que lo sabría muy pronto, que no me preocu- <br>
+
           para aún. Varios días pasaron para nosotros antes <br>
           de amoblar del todo el nuevo hogar. Durante esos <br>
           días, mi papá salía en la mañana a entregar papeles <br>

@@ -20,11 +20,11 @@
           <p>
             pregrado. Dicen que fue un flechazo, que ambos <br />
             supieron que querían estar juntos y sí, se llevan muy <br />
-            bien. Es extraño. Mi mamáes una llanera que habla <br />
-            fuerte, que asusta cuando se enoja, esuna mujer <br />
+            bien. Es extraño. Mi mamá es una llanera que habla <br />
+            fuerte, que asusta cuando se enoja, es una mujer <br />
             que anda por la vida sin demostrar muchos miedos,<br />
-            contenacidad. Mientras que mi papá, proveniente <br />
-            de una vereda cercade Pesca, en Boyacá, era una <br />
+            con tenacidad. Mientras que mi papá, proveniente <br />
+            de una vereda cerca de Pesca, en Boyacá, era una <br />
             persona más apacible, más temerosa si se quiere.
           </p>
           <img src="assets/cap1/final4.png" alt="" />

@@ -42,6 +42,11 @@
             cio, no se escuchó ni una sola voz, nada. Tras unos <br />
             tres minutos la profesora nos pidió sacar el cuader- <br />
             no de ciencias para revisar la tarea. <br /><br />
-            El día transcurrió con normalidad, tuvimos las
+            El día transcurrió con normalidad, tuvimos las<br/>
+	    clases común y corriente. Hasta faltando veinte <br />
+            para salir. La profesora nos pidió pasar al frente, <br />
+            no sin antes poner nuestra maleta sobre la mesa del <br />
+           pupitre. Una por una, cada maleta fue revisada, es- <br />
+           culcada de principio a fin. <br /><br />	
           </p>
           <div class="page_number">24</div>

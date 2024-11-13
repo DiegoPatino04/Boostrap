@@ -8,8 +8,8 @@
           las boyacenses. Está untada de <br />
           ritmos, de cuerdas que vibran y entonan los más <br />
           bellos acordes de una región demarcada por Los <br />
-          Andes. Estoy aquí para contarles lo que he descu- bras bierto en
-          estecamino, pues al final he vivido <br />
+          Andes. Estoy aquí para contarles lo que he descu- <br />
+ 	  bierto en este camino, pues al final he vivido <br />
           esta historia para poder también compartirla con <br />
           ustedes, los que me leen. <br />
           <br />
@@ -27,9 +27,9 @@
         <div class="page_number">11</div>
 
 <!--BACK-->
-          <img src="assets/cap1/final3-pt1.png" alt="" />
+           <div class="img_cap">
           <p>
-           <br /> Una vereda donde el calor se siente desde el amanecer.
+            Una vereda donde el calor se siente desde el amanecer.
             <br /><br />
             Era una casa pequeña, dos cuartos y una sala que <br />
             servía más de cocina. A veces se iba el agua por días <br />
@@ -45,3 +45,4 @@
             cuenta. Una vez el sol se apagaba y las garzas lle-
           </p>
           <div class="page_number">12</div>
+        </div>

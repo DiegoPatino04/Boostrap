@@ -23,6 +23,7 @@
           había empeñado tiempo atrás para saldar una deu- <br>
           da. En fin, Tomasito, esto es lo que le queda y usted <br>
           verá si le saca provecho ¡Será que le gana lo llanero
+          o lo boyacense!” <br><br>
         </p>
         <div class="page_number">49</div>
 <!--BACK-->

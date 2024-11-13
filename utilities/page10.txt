@@ -1,5 +1,5 @@
           <p>
-            tenía apenas un cuarto de hectárea.<br />
+            tenía apenas un cuarto de hectárea.<br /><br/>
             Cuando cumplí seis años, pude acompañar a mi<br />
             papá a ordeñar las vacas y organizar los galpones.<br />
             Ahí me enteré de que era importante ir a la escue-<br />
@@ -24,12 +24,11 @@
           nar era insólito, por lo que mi mamá puso muy cla-<br />
           ra sobre la mesa la necesidad de un vehículo. Ahí <br />
           fue que apareció el renól 12 medio destartaladito. <br />
-          <br />
           Los primeros días era una novedad subirse al carro,<br />
           aprender a mirar por los retrovisores, ver los de- <br />
           más a pie desde el efecto de la velocidad del carro. <br />
           Era realmente fascinante, aunque con el paso de los <br />
-          días se volvió una decoración más de la rutina. <br />
+          días se volvió una decoración más de la rutina. <br /><br/>
           En la escuela teníamos cinco salones, uno por <br />
           curso, yo entré a primero con catorce niños. La pro- <br />
           fesora nos daba clases de todo, sabía sumar, escri- <br />

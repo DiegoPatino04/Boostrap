@@ -1,253 +1,283 @@
 <!DOCTYPE html>
 <html lang="es">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="CSS/Book.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="CSS/Book.css" />
     <title>Los Caminos del Requinto - Book</title>
-</head>
+  </head>
 
-<body>
+  <body>
     <header class="header">
-        <img src="assets/descarga.jpeg" alt="Encabezado de página" class="w-100">
+      <img
+        src="assets/descarga.jpeg"
+        alt="Encabezado de página"
+        class="w-100"
+      />
     </header>
 
     <nav class="menu fixed-top">
-        <div class="dropdown">
-            <button class="btn btn-primary btn-sm dropdown-toggle" type="button" id="dropdownMenuButton"
-                aria-expanded="false" onclick="toggleMenu()">Menú</button>
-            <div id="dropdown" class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="index.html">Main Page</a>
-                <a class="dropdown-item" href="Book.html">Book</a>
-                <a class="dropdown-item" href="Gallery.html">Gallery</a>
-            </div>
+      <div class="dropdown">
+        <button
+          class="btn btn-primary btn-sm dropdown-toggle"
+          type="button"
+          id="dropdownMenuButton"
+          aria-expanded="false"
+          onclick="toggleMenu()"
+        >
+          Menú
+        </button>
+        <div
+          id="dropdown"
+          class="dropdown-menu"
+          aria-labelledby="dropdownMenuButton"
+        >
+          <a class="dropdown-item" href="index.html">Main Page</a>
+          <a class="dropdown-item" href="Book.html">Book</a>
+          <a class="dropdown-item" href="Gallery.html">Gallery</a>
         </div>
+      </div>
     </nav>
 
     <main>
-        <div class="book">
-            <div class="page" data-page="page1">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page2">
-                <div class="front">
-                </div>
-                <div class="back">
-                </div>
-            </div>
-            <div class="page" data-page="page3">
-                <div class="front">
-                    <ul class="index-list">
-                        <li><span>Agradecimientos</span><span>7</span></li>
-                        <li><span>Capítulo I</span><span>11</span></li>
-                        <li><span>Capítulo II</span><span>17</span></li>
-                        <li><span>Capítulo III</span><span>23</span></li>
-                        <li><span>Capítulo IV</span><span>31</span></li>
-                        <li><span>Capítulo V</span><span>37</span></li>
-                        <li><span>Capítulo VI</span><span>45</span></li>
-                        <li><span>Capítulo VII</span><span>53</span></li>
-                        <li><span>Capítulo VIII</span><span>61</span></li>
-                        <li><span>Epílogo</span><span>70</span></li>
-                    </ul>
-                    <div class="page_number">5</div>
-                </div>
-                <div class="back"></div>
-                <div class="page_number">6</div>
-            </div>
-            <div class="page" data-page="page4">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page5">
-                <div class="front">
-                    <div class="imageChapter">
-                        <img src="assets/cap1/final.PNG" alt="" />
-                        <img src="assets/cap1/final2.png" alt="" />
-                        <div class="page_number">9</div>
-                    </div>
-                </div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page6">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page7">
-                <div class="front">
-                    <div class="img2_cap">
-                        <img src="assets/cap1/final3-pt2.png" alt="" />
-                    </div>
-                </div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page8">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page9">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page10">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page11">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page12">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page13">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page14">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page15">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page16">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page17">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page18">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page19">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page20">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page21">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page22">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page23">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page24">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page25">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page26">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page27">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page28">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page29">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page30">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page31">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page32">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page33">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page34">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page35">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page36">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page37">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
-            <div class="page" data-page="page38">
-                <div class="front"></div>
-                <div class="back"></div>
-            </div>
+      <div class="book">
+        <div class="page" data-page="page1">
+          <div class="front"></div>
+          <div class="back"></div>
         </div>
+        <div class="page" data-page="page2">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page3">
+          <div class="front">
+            <ul class="index-list">
+              <li><span>Agradecimientos</span><span>7</span></li>
+              <li><span>Capítulo I</span><span>11</span></li>
+              <li><span>Capítulo II</span><span>17</span></li>
+              <li><span>Capítulo III</span><span>23</span></li>
+              <li><span>Capítulo IV</span><span>31</span></li>
+              <li><span>Capítulo V</span><span>37</span></li>
+              <li><span>Capítulo VI</span><span>45</span></li>
+              <li><span>Capítulo VII</span><span>53</span></li>
+              <li><span>Capítulo VIII</span><span>61</span></li>
+              <li><span>Epílogo</span><span>70</span></li>
+            </ul>
+            <div class="page_number">5</div>
+          </div>
+          <div class="back"></div>
+          <div class="page_number">6</div>
+        </div>
+        <div class="page" data-page="page4">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page5">
+          <div class="front">
+            <div class="imageChapter">
+              <img src="assets/cap1/final.PNG" alt="" />
+              <img src="assets/cap1/final2.png" alt="" />
+              <div class="page_number">9</div>
+            </div>
+          </div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page6">
+          <div class="front"></div>
+          <div class="back">
+            <div class="img_cap">
+              <img src="assets/cap1/final3-pt1.png" alt="" />
+            </div>
+          </div>
+        </div>
+        <div class="page" data-page="page7">
+          <div class="front">
+            <div class="img2_cap">
+              <img src="assets/cap1/final3-pt2.png" alt="" />
+            </div>
+          </div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page8">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page9">
+          <div class="front">
+            <h3>capitulo II</h3>
+            <div class="cap2">
+                <img src="assets/cap2/cap2/cap2.png" alt="" />
+            </div>
+          </div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page10">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page11">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page12">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page13">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page14">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page15">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page16">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page17">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page18">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page19">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page20">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page21">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page22">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page23">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page24">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page25">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page26">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page27">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page28">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page29">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page30">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page31">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page32">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page33">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page34">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page35">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page36">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page37">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+        <div class="page" data-page="page38">
+          <div class="front"></div>
+          <div class="back"></div>
+        </div>
+      </div>
     </main>
     <div class="navigation-buttons text-center mt-3">
-        <button id="prevBtn" class="btn btn-secondary">Previous</button>
-        <button id="nextBtn" class="btn btn-secondary">Next</button>
+      <button id="prevBtn" class="btn btn-secondary">Previous</button>
+      <button id="nextBtn" class="btn btn-secondary">Next</button>
     </div>
 
     <footer class="footer bg-dark text-light">
-        <div class="footer-content">
-            <h3>Book Information...</h3>
-            <div class="row">
-                <div class="col">
-                    <strong>Developed by:</strong>
-                    <ul>
-                        <li>Gustavo Andres Barrera Arcos</li>
-                        <li>Diego Alejandro Patiño Vega</li>
-                    </ul>
-                </div>
-                <div class="col">
-                    <strong>About the Developers:</strong>
-                    <ul>
-                        <li>Ingeniería de Sistemas y Computación, Universidad Pedagógica y Tecnológica de Colombia</li>
-                    </ul>
-                </div>
-                <div class="col">
-                    <strong>Follow us:</strong>
-                    <ul>
-                        <li>Placeholder Link</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="footer-logos d-flex justify-content-start gap-3 mt-3">
-                <img src="assets/escudofinal.png" alt="Logo" class="img-fluid logo">
-                <img src="assets/MINEdu logo.png" alt="MINEdu logo" class="img-fluid logo">
-            </div>
+      <div class="footer-content">
+        <h3>Book Information...</h3>
+        <div class="row">
+          <div class="col">
+            <strong>Developed by:</strong>
+            <ul>
+              <li>Gustavo Andres Barrera Arcos</li>
+              <li>Diego Alejandro Patiño Vega</li>
+            </ul>
+          </div>
+          <div class="col">
+            <strong>About the Developers:</strong>
+            <ul>
+              <li>
+                Ingeniería de Sistemas y Computación, Universidad Pedagógica y
+                Tecnológica de Colombia
+              </li>
+            </ul>
+          </div>
+          <div class="col">
+            <strong>Follow us:</strong>
+            <ul>
+              <li>Placeholder Link</li>
+            </ul>
+          </div>
         </div>
+        <div class="footer-logos d-flex justify-content-start gap-3 mt-3">
+          <img src="assets/escudofinal.png" alt="Logo" class="img-fluid logo" />
+          <img
+            src="assets/MINEdu logo.png"
+            alt="MINEdu logo"
+            class="img-fluid logo"
+          />
+        </div>
+      </div>
     </footer>
 
     <script src="JavaScript/Menu.js"></script>
     <script src="JavaScript/Book.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-
+  </body>
 </html>
