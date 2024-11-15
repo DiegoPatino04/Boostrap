@@ -1,46 +1,45 @@
 <p>
- 	  Los treinta minutos del descan- <br />
-          so eran una ilusión, nos sentíamos como jugando <br />
-          en El Campín. Los profesores que hacían guardia <br />
-          tenían que decomisar la botellita para que quisiéra- <br />
-          mos regresarnos al salón. <br /><br />
-          A la salida mi papá se demoraba en llegar, eso <br />
-          me daba tiempo para otro partidito o para comer <br />
-          mango viche con sal y limón. El uniforme quedaba <br />
-          siempre con las marcas del polvo y la comida. Fue <br />
+ 	   
+          en El Campín. Los profesores que hacían guardia 
+          tenían que decomisar la botellita para que quisiéramos 
+	  regresarnos al salón. <br /><br />
+          A la salida mi papá se demoraba en llegar, eso 
+          me daba tiempo para otro partidito o para comer 
+          mango viche con sal y limón. El uniforme quedaba 
+          siempre con las marcas del polvo y la comida. Fue 
           necesario que me compraran otro para poder lavarlo día de por medio.
           <br /><br />
-          La verdad es que mis papás fueron muy pacientes <br />
-          conmigo. Los primeros boletines no fueron bue- <br />
-          nos, las notas eran más bien “aceptables” y a la pro- <br />
-          fesora le preocupaba que yo me la pasara distraído <br />
-          más tiempo del que me la pasaba tomando apuntes. <br />
-          Mis compañeros me contaban que en las casas les <br />
-          pegaban correazos y los castigaban con una semana <br />
-          sin onces. Pero a mí no, mi mamá me regañaba y <br />
-          decía que la situación era inaceptable, luego lanzaba <br />
-          al aire suplicas para que alguna “fuerza espiritual” <br />
-          me llenara de inteligencia. Mi papá, por otro lado, <br />
+          La verdad es que mis papás fueron muy pacientes 
+          conmigo. Los primeros boletines no fueron buenos,
+	  las notas eran más bien “aceptables” y a la profesora
+	  le preocupaba que yo me la pasara distraído 
+          más tiempo del que me la pasaba tomando apuntes. 
+          Mis compañeros me contaban que en las casas les 
+          pegaban correazos y los castigaban con una semana 
+          sin onces. Pero a mí no, mi mamá me regañaba y 
+          decía que la situación era inaceptable, luego lanzaba 
+          al aire suplicas para que alguna “fuerza espiritual” 
+          me llenara de inteligencia. Mi papá, por otro lado, 
+	  se quedaba en silencio con la libreta de boletines en 
+          la mano, miraba y miraba, quizá esperando al milagro 
+	  que cambiara la tinta del papel y reescribiera los 
+          numeritos de cada casilla. <br /><br />
         </p>
         <div class="page_number">21</div>
 <!--BACK-->
  <p>
-          se quedaba en silencio con la libreta de boletines en <br />
-          la mano, miraba y miraba, quizá esperando al mila- <br />
-          gro que cambiara la tinta del papel y reescribiera los <br />
-          numeritos de cada casilla. <br /><br />
-          Dos o tres días después no se hablaba más del <br />
-          asunto. Se pasaba la página y se volvía a los temas <br />
-          rutinarios, ordeñar las vacas, cuidar las gallinas, lim- <br />
-          piar la casa. Poco se recordaba que no era el mejor <br />
+        
+          Dos o tres días después no se hablaba más del 
+          asunto. Se pasaba la página y se volvía a los temas 
+          rutinarios, ordeñar las vacas, cuidar las gallinas, limpiar
+	  la casa. Poco se recordaba que no era el mejor 
           estudiante posible. <br /><br />
-          Los meses posteriores mi situación académica <br />
-          mejoró. Las buenas notas comenzaron a aparecer. <br />
-          Me parecía más sencillo poner atención a las clases, <br />
-          tomaba apuntes de manera más rápida y, en algunos <br />
-          momentos, podía decir el resultado de una que otra <br />
-          operación matemática tras apenas echarle un vista- <br />
-          zo a los números en el tablero ¿Me estaba volvien- <br />
-          do un genio? Por supuesto que no.
+          Los meses posteriores mi situación académica 
+          mejoró. Las buenas notas comenzaron a aparecer. 
+          Me parecía más sencillo poner atención a las clases, 
+          tomaba apuntes de manera más rápida y, en algunos 
+          momentos, podía decir el resultado de una que otra 
+          operación matemática tras apenas echarle un vistazo 
+	  a los números en el tablero ¿Me estaba volviendo un genio? Por supuesto que no.
         </p>
         <div class="page_number">22</div>

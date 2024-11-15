@@ -1,49 +1,51 @@
 <p>
-          Mi papá siempre decía que los ladrones en este <br />
-          país son tan tontos como los que se dejan robar. <br />
-          Por eso no teníamos versiones propias de pelícu- <br />
-          las gringas sobre grandes robos, porque elegancia <br />
-          e inteligencia no iban de la mano si es que el la- <br />
-          drón venía de estas tierras. Y no se equivocaba, aún <br />
-          estando bajo la mira de todos, nuestros valientes <br />
-          compañeros cleptómanos siguieron apropiándose <br />
-          de nuestros colores. No contaban con que varios <br />
-          de los lápices estaban pelados por un lado, donde <br />
-          nuestros papás escribían nuestros nombres, por si <br />
+          Mi papá siempre decía que los ladrones en este 
+          país son tan tontos como los que se dejan robar. 
+          Por eso no teníamos versiones propias de películas
+	  gringas sobre grandes robos, porque elegancia 
+          e inteligencia no iban de la mano si es que el ladrón 
+	  venía de estas tierras. Y no se equivocaba, aún 
+          estando bajo la mira de todos, nuestros valientes 
+          compañeros cleptómanos siguieron apropiándose 
+          de nuestros colores. No contaban con que varios
+          de los lápices estaban pelados por un lado, donde 
+          nuestros papás escribían nuestros nombres, por si 
           se perdían. <br /><br />
-          La profesora encontró entonces algunos de los <br />
-          objetos hurtados. Allí descubrimos lo que en reali- <br />
-          dad estaba pasando. Todos entramos en cólera, una <br />
-          niña lloró desconsolada, era probable que en la casa <br />
+          La profesora encontró entonces algunos de los 
+          objetos hurtados. Allí descubrimos lo que en realidad estaba 
+	  pasando. Todos entramos en cólera, una 
+          niña lloró desconsolada, era probable que en la casa 
           la tuvieran amenazada, al igual que conmigo. <br /><br />
-          Cuando les preguntaron por qué lo habían hecho, <br/>
-          se quedaron callados, como mudos. La profesora <br />
-          les citó a los acudientes para esa misma semana. Al <br />
-          mismo tiempo que les pidió que devolvieran cada <br />
-          uno de los objetos que habían tomado. <br />
+          Cuando les preguntaron por qué lo habían hecho, 
+          se quedaron callados, como mudos. La profesora 
+          les citó a los acudientes para esa misma semana. Al 
+          mismo tiempo que les pidió que devolvieran cada 
+          uno de los objetos que habían tomado. <br /><br>
+	  Esa semana retornó la tranquilidad al salón. Recuperamos 
+	  casi todas nuestras cosas y recibimos una 
+          disculpa pública de los padres de nuestros compañeros. Aun así,
+	  la cara de los niños no terminaba de convencerme, por algún motivo me
+           miraban todo el rato
         </p>
         <div class="page_number">25</div>
 <!--BACK-->
      <p>
-          Esa semana retornó la tranquilidad al salón. Recu- <br />
-          peramos casi todas nuestras cosas y recibimos una <br />
-          disculpa pública de los padres de nuestros compa- <br />
-          ñeros. Aun así, la cara de los niños no terminaba de <br />
-          convencerme, por algún motivo me miraban todo <br />
-          el rato con ojos que irradiaban odio, rabia. No sa- <br />
-          bría bien cómo describirlo. <br /><br />
-          El viernes siguiente estábamos a punto de termi- <br />
-          nar nuestra jornada escolar. Como se había vuelto <br />
-          costumbre, la profesora nos revisaba la maleta para <br />
-          verificar que “por accidente” alguien no tomara <br />
-          algo que no le pertenecía. Mientras caminábamos <br />
-          por el pasillo que llevaba a la puerta principal, sen- <br />
-          tí un empujón por la espalda. Alcancé a poner las <br />
-          manos en el suelo antes de sentir una patada cerca <br />
-          del estómago. Todo parecía indicar que yo era el <br />
-          “sapo” que había prendido las alarmas con la pro- <br />
-          fesora. Mis amigos se metieron a interceder para <br />
-          que no me pegaran más. Ahí pude levantarme, jus- <br />
-          to para escuchar que eso no se quedaba ahí.
+
+	  
+           con ojos que irradiaban odio, rabia. No sabría bien
+	  cómo describirlo. <br /><br />
+          El viernes siguiente estábamos a punto de terminar nuestra 
+	  jornada escolar. Como se había vuelto 
+          costumbre, la profesora nos revisaba la maleta para 
+          verificar que “por accidente” alguien no tomara 
+          algo que no le pertenecía. Mientras caminábamos 
+          por el pasillo que llevaba a la puerta principal, sentí
+	  un empujón por la espalda. Alcancé a poner las 
+          manos en el suelo antes de sentir una patada cerca 
+          del estómago. Todo parecía indicar que yo era el
+          “sapo” que había prendido las alarmas con la profesora. Mis
+	  amigos se metieron a interceder para 
+          que no me pegaran más. Ahí pude levantarme, justo
+	  para escuchar que eso no se quedaba ahí.
         </p>
         <div class="page_number">26</div>

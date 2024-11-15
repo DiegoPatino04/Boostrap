@@ -29,9 +29,9 @@
           Era realmente fascinante, aunque con el paso de los 
           días se volvió una decoración más de la rutina. <br /><br/>
           En la escuela teníamos cinco salones, uno por 
-          curso, yo entré a primero con catorce niños. La pro
-          fesora nos daba clases de todo, sabía sumar, escri
-          bir, podía mostrarnos las partes que tenía una plan 
+          curso, yo entré a primero con catorce niños. La profesora nos
+	  daba clases de todo, sabía sumar, escribir,
+	  podía mostrarnos las partes que tenía una plan 
           ta y decir de memoria el nombre de casi todos los 
           huesos del cuerpo. <br />
           <br />
@@ -44,6 +44,6 @@
           cuál juego jugaría con mis compañeros en el patio. 
           Mi favorito era el fútbol con botellas de plástico rellenas de envolturas de papas y dulces.
 	 Los arcos los armábamos con las maletas, patadas iban y venían 
-          sin puntería alguna. Los treinta minutos del descanso eran una ilusión,
+          sin puntería alguna. Los treinta minutos del descanso eran una ilusión,nos sentíamos como jugando 
         </p>
         <div class="page_number">20</div>
