@@ -4,44 +4,44 @@
           tras yo, con una venda en los ojos, intentaba adivi- <br>
           nar qué nota era la que se escuchaba. Como si es- <br>
           tuviésemos en una especie de Karate Kid musical. <br><br>
-          Así creé algunas de mis canciones, recordando <br>
-          sonidos y emparejándolos en mi cabeza imaginan- <br>
-          do qué tan bien sonarían. En mi corto repertorio <br>
-          contaba con ritmos bien cercanos a la carranga, así <br>
-          que para el video me vestí con la ruana y sombrero <br>
+          Así creé algunas de mis canciones, recordando 
+          sonidos y emparejándolos en mi cabeza imaginan- 
+          do qué tan bien sonarían. En mi corto repertorio 
+          contaba con ritmos bien cercanos a la carranga, así 
+          que para el video me vestí con la ruana y sombrero 
           de mi abuelo, que ya me quedaban bien. <br><br>
-          En las clases de tecnología nos habían enseñado <br>
-          a editar videos y pensé que sería una buena idea <br>
-          realizar mi video con una transición. Recordé la <br>
-          primera vez que vi un requinto en mi vida, en el <br>
-          video de los Carranguero de Ráquira, en las manos <br>
-          de Javier Moreno. Aquel requintero que murió tan <br>
-          joven, pero que fue esencial para que la carranga <br>
-          existiera en este país. <br><br>
-          En el video se mostraba a Moreno en una presen- <br>
-          tación, el video se veía antiguo, con pocos pixeles. <br>
-          En una transición se borraba la imagen del requin- <br>
+          En las clases de tecnología nos habían enseñado 
+          a editar videos y pensé que sería una buena idea 
+          realizar mi video con una transición. Recordé la 
+          primera vez que vi un video de los carrangueros 
+          de Ráquira, en las manos de Javier Moreno.
+	  Aquel requintero que murió tan joven, pero que
+	  fue esencial para que la carranga existiera en 
+	  este país. <br><br>
+          En el video se mostraba a Moreno en una presen- 
+          tación, el video se veía antiguo, con pocos pixeles. 
+          En una transición se borraba la imagen del requin- 
           tero para que la mía apareciera, con el Pozo Donato
         </p>
         <div class="page_number">73</div>
 <!--BACK-->
 <p>
-      de fondo, lugar donde escuché la carranga por pri- <br>
-      mera vez. Continuaba con la canción que entonaba <br>
-      Javier y seguía con un mosaico en el que sonaban <br>
+      de fondo, lugar donde escuché la carranga por pri- 
+      mera vez. Continuaba con la canción que entonaba 
+      Javier y seguía con un mosaico en el que sonaban 
       mis canciones <br><br>
-      ¿Recuerdan que les hablaba de los sueños que se <br>
-      forjaban en la infancia? Pues este es el mío, el de <br>
-      ser músico y tocar el requinto a nivel profesional. <br>
-      El sueño que apareció en el auditorio del colegio, <br>
-      tocando el requinto de mi abuelo con una ruana <br>
-      prestada. Allí donde mis padres y mis abuelos me <br>
-      vieron con ilusión, con asombro, y con demasiado <br>
+      ¿Recuerdan que les hablaba de los sueños que se
+      forjaban en la infancia? Pues este es el mío, el de 
+      ser músico y tocar el requinto a nivel profesional. 
+      El sueño que apareció en el auditorio del colegio, 
+      tocando el requinto de mi abuelo con una ruana 
+      prestada. Allí donde mis padres y mis abuelos me 
+      vieron con ilusión, con asombro, y con demasiado 
       orgullo. <br><br>
-      Hoy que termino de escribir este libro, como si  <br>
-      de mis memorias de la niñez se tratara, he recibido <br>
-      la carta con la respuesta a mi video. Nunca me ha- <br>
-      bía alegrado tanto viendo una palabra tan corta <br>
+      Hoy que termino de escribir este libro, como si  
+      de mis memorias de la niñez se tratara, he recibido 
+      la carta con la respuesta a mi video. Nunca me ha- 
+      bía alegrado tanto viendo una palabra tan corta 
        y sencilla. 
     </p>
     <div class="page_number">74</div>

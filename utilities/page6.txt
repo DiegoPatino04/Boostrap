@@ -1,27 +1,27 @@
 <!--FRONT-->
         <h3>Capitulo 1</h3>
         <p>
-          Esta historia se narra, en cuestión de territorios,<br />
-          de manera ascendente, arranca en las planicies de <br />
-          los llanos que me vieron nacer y paso a paso se <br />
+          Esta historia se narra, en cuestión de territorios,
+          de manera ascendente, arranca en las planicies de 
+          los llanos que me vieron nacer y paso a paso se 
           encorva para acoplarse a las montañas tiernas y verdes, como lo son
-          las boyacenses. Está untada de <br />
-          ritmos, de cuerdas que vibran y entonan los más <br />
-          bellos acordes de una región demarcada por Los <br />
-          Andes. Estoy aquí para contarles lo que he descu- <br />
- 	  bierto en este camino, pues al final he vivido <br />
-          esta historia para poder también compartirla con <br />
+          las boyacenses. Está untada de 
+          ritmos, de cuerdas que vibran y entonan los más 
+          bellos acordes de una región demarcada por Los
+          Andes. Estoy aquí para contarles lo que he descu- 
+ 	  bierto en este camino, pues al final he vivido 
+          esta historia para poder también compartirla con 
           ustedes, los que me leen. <br />
           <br />
-          Mi nombre es Tomás, no me gustan los apodos, <br />
-          así en mi familia siempre me tengan uno nuevo: <br />
+          Mi nombre es Tomás, no me gustan los apodos, 
+          así en mi familia siempre me tengan uno nuevo: 
           Tommy, Tomacito, Tom… me cansa lo poco creativo que suenan. Con el
           tiempo he preparado la respuesta perfecta para estas ocasiones,
           aunque aún sigo sin poder usarla. <br />
           <br />
-          Les pido me disculpen, vuelvo a mi historia. Nací <br />
-          en el llano, en Yopal, a principios de siglo. Aunque <br />
-          en los llanos viví más tiempo en un terreno que le <br />
+          Les pido me disculpen, vuelvo a mi historia. Nací 
+          en el llano, en Yopal, a principios de siglo. Aunque 
+          en los llanos viví más tiempo en un terreno que le 
           heredaron en vida a mis papás, cerca a Mangoverde.
         </p>
         <div class="page_number">11</div>
@@ -31,17 +31,17 @@
           <p>
             Una vereda donde el calor se siente desde el amanecer.
             <br /><br />
-            Era una casa pequeña, dos cuartos y una sala que <br />
-            servía más de cocina. A veces se iba el agua por días <br />
-            y teníamos que viajar en un renól 12 tan caprichoso <br />
-            como los perros de la finca cuando no les servían la <br />
-            sopa a tiempo. Hacía ruidos, molestaba para arran- <br />
-            car y, casi siempre, tocaba empujarlo medio cami- <br />
-            no porque se recalentaba. Normalmente íbamos a <br />
-            Yopal, comprábamos bolsas de agua de cinco litros <br />
-            hasta llenar el maletero y nos devolvíamos a la hora <br />
-            de las garzas. Mi papá siempre me compraba unas <br />
-            galletas con punta de chocolate sin que me diera <br />
+            Era una casa pequeña, dos cuartos y una sala que 
+            servía más de cocina. A veces se iba el agua por días 
+            y teníamos que viajar en un renól 12 tan caprichoso 
+            como los perros de la finca cuando no les servían la 
+            sopa a tiempo. Hacía ruidos, molestaba para arran- 
+            car y, casi siempre, tocaba empujarlo medio cami- 
+            no porque se recalentaba. Normalmente íbamos a 
+            Yopal, comprábamos bolsas de agua de cinco litros 
+            hasta llenar el maletero y nos devolvíamos a la hora 
+            de las garzas. Mi papá siempre me compraba unas 
+            galletas con punta de chocolate sin que me diera 
             cuenta. Una vez el sol se apagaba y las garzas lle-
           </p>
           <div class="page_number">12</div>

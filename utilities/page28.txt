@@ -11,7 +11,7 @@
             suficientemente claras y al final todo el intento <br>
             fuera una decepción. No obstante, mi abuelo se secó <br>
             las lágrimas, me pidió el requinto, y empezó a <br>
-            mostrar me otros acordes que no conocía.
+            mostrarme otros acordes que no conocía.
           </p>
           <img style="width:210px; margin-left:50px;" src="assets/cap7/lagrimas.png" alt="">
         <div class="page_number">55</div>
@@ -33,8 +33,8 @@
                     colegio varios de mis compañeros comenzaron a <br>
                     ser mis amigos. En las clases de música pasé de ser <br>
                     el extraño que estorbaba en el grupo a ser el “re- <br>
-                    quintero”. Aunque dudo que ese sea el nombre que <br>
-                    se le da al que toca el instrumento. <br><br>
+                    quintero”. Aunque dudo que ese sea el nombre que se le
+		    da al que toca el instrumento. <br><br>
                     Cada vez estaba más cerca el día del recital y los <br>
                     nervios comenzaban a acumularse. Las canciones <br>
                     que estábamos preparando no terminaban de en- <br>

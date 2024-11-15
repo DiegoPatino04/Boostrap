@@ -1,48 +1,49 @@
           <p>
             tenía apenas un cuarto de hectárea.<br /><br/>
-            Cuando cumplí seis años, pude acompañar a mi<br />
-            papá a ordeñar las vacas y organizar los galpones.<br />
-            Ahí me enteré de que era importante ir a la escue-<br />
-            la y que yo ya estaba en la mejor edad para asistir.<br />
-            Para mi papá era vital estudiar, hacer una carrera, o<br />
-            como él lo llamaba “Hacer algo para no morirse de<br />
-            hambre” Yo, desde mi perspectiva de niño, lo veía<br />
-            todo con un toque de aburrimiento. Ir a encerrarse<br />
-            en un cuarto con otros niños mientras alguien es-<br />
-            cribía garabatos en lo que parecía una pared blanca.<br />
-            No se comparaba en nada a lanzar palitos al aire<br />
-            y esperar a que los perros los atraparan para tener<br />
-            que perseguirlos y quitárselos del hocico. Ahí sí est-<br />
+            Cuando cumplí seis años, pude acompañar a mi
+            papá a ordeñar las vacas y organizar los galpones.
+            Ahí me enteré de que era importante ir a la escuela 
+	    y que yo ya estaba en la mejor edad para asistir.
+            Para mi papá era vital estudiar, hacer una carrera, o
+            como él lo llamaba “Hacer algo para no morirse de
+            hambre” Yo, desde mi perspectiva de niño, lo veía
+            todo con un toque de aburrimiento. Ir a encerrarse
+            en un cuarto con otros niños mientras alguien escribía garabatos en lo que parecía una pared blanca.
+            No se comparaba en nada a lanzar palitos al aire
+            y esperar a que los perros los atraparan para tener
+            que perseguirlos y quitárselos del hocico. Ahí sí est
             aba la diversión.
           </p>
           <img src="assets/cap2/cap2/cap2-2.png" alt="" />
           <div class="page_number">19</div>
 <!--BACK-->
 <p>
-          La escuela más cercana quedaba a unos quince <br />
-          o veinte kilómetros de distancia. Pensar en cami-<br />
-          nar era insólito, por lo que mi mamá puso muy cla-<br />
-          ra sobre la mesa la necesidad de un vehículo. Ahí <br />
-          fue que apareció el renól 12 medio destartaladito. <br />
-          Los primeros días era una novedad subirse al carro,<br />
-          aprender a mirar por los retrovisores, ver los de- <br />
-          más a pie desde el efecto de la velocidad del carro. <br />
-          Era realmente fascinante, aunque con el paso de los <br />
+          La escuela más cercana quedaba a unos quince 
+          o veinte kilómetros de distancia. Pensar en cami
+          nar era insólito, por lo que mi mamá puso muy cla
+          ra sobre la mesa la necesidad de un vehículo. Ahí 
+          fue que apareció el renól 12 medio destartaladito. 
+          Los primeros días era una novedad subirse al carro,
+          aprender a mirar por los retrovisores, ver los de
+          más a pie desde el efecto de la velocidad del carro. 
+          Era realmente fascinante, aunque con el paso de los 
           días se volvió una decoración más de la rutina. <br /><br/>
-          En la escuela teníamos cinco salones, uno por <br />
-          curso, yo entré a primero con catorce niños. La pro- <br />
-          fesora nos daba clases de todo, sabía sumar, escri- <br />
-          bir, podía mostrarnos las partes que tenía una plan- <br />
-          ta y decir de memoria el nombre de casi todos los <br />
+          En la escuela teníamos cinco salones, uno por 
+          curso, yo entré a primero con catorce niños. La pro
+          fesora nos daba clases de todo, sabía sumar, escri
+          bir, podía mostrarnos las partes que tenía una plan 
+          ta y decir de memoria el nombre de casi todos los 
           huesos del cuerpo. <br />
           <br />
-          En esos salones conocí a mis primeros amigos,<br />
-          también a mis primeros enemigos. Aunque sobre <br />
-          esto hablaré después. Es cierto que las clases me <br />
-          costaban, poner atención a una persona, la misma <br />
-          persona, hablando por horas era complicado. Más <br />
-          cuando en mi cabeza era más importante pensar en <br />
-          cuál juego jugaría con mis compañeros en el patio. <br />
-          Mi favorito era el fútbol con botellas de plástico re-
+          En esos salones conocí a mis primeros amigos,
+          también a mis primeros enemigos. Aunque sobre 
+          esto hablaré después. Es cierto que las clases me 
+          costaban, poner atención a una persona, la misma 
+          persona, hablando por horas era complicado. Más 
+          cuando en mi cabeza era más importante pensar en 
+          cuál juego jugaría con mis compañeros en el patio. 
+          Mi favorito era el fútbol con botellas de plástico rellenas de envolturas de papas y dulces.
+	 Los arcos los armábamos con las maletas, patadas iban y venían 
+          sin puntería alguna. Los treinta minutos del descanso eran una ilusión,
         </p>
         <div class="page_number">20</div>
