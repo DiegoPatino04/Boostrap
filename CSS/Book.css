@@ -122,31 +122,20 @@ body {
     padding-right: 0%;
 }
 
-
 /* Footer styling */
 .footer {
-    background-color: #2CAFE6;
-    color: white;
-    padding: 2rem 1rem;
-    margin-top: auto;
-    /* Pushes the footer to the bottom */
+    background-color: #2CAFE6; /* Color principal */
+    padding: 2rem 0;
 }
 
-.footer-content h3 {
+.footer h3 {
+    color: #E68F2C; /* Color secundario */
     text-align: center;
-    margin-bottom: 1.5rem;
 }
 
-.footer .row {
-    text-align: left;
-}
-
-.footer .col {
-    margin-bottom: 1rem;
-}
-
-.footer-logos {
-    justify-content: center;
+.footer-content {
+    max-width: 1200px;
+    margin: auto;
 }
 
 .footer .logo {
@@ -154,12 +143,10 @@ body {
     height: auto;
 }
 
-.footer .dropdown-item {
-    color: #4F0471;
-}
-
-.footer .dropdown-item:hover {
-    background-color: #FFD8A0;
+/* Additional layout */
+.footer .row div {
+    color: white; /* Color de texto */
+    font-size: 1.1rem;
 }
 
 .front p,
@@ -264,4 +251,13 @@ body {
     width: 82%;
     margin-left: 55px;
     object-fit: cover;
+}
+.navigation-buttons .btn{
+    color: white;
+    font-weight: bold;
+    background-color: #2CAFE6; /* Color principal */
+    border: none;
+    border-radius: 20px;
+    padding: 0.5rem 1rem; /* Ajustar el padding del botón */
+    margin-bottom: 2rem;
 }
