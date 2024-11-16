@@ -23,15 +23,15 @@
           uno de los objetos que habían tomado. <br /><br>
 	  Esa semana retornó la tranquilidad al salón. Recuperamos 
 	  casi todas nuestras cosas y recibimos una 
-          disculpa pública de los padres de nuestros compañeros. Aun así,
-	  la cara de los niños no terminaba de convencerme, por algún motivo me
-           miraban todo el rato
+          disculpa pública de los padres de nuestros compañeros. 
         </p>
         <div class="page_number">25</div>
 <!--BACK-->
      <p>
 
-	  
+	   Aun así,
+	  la cara de los niños no terminaba de convencerme, por algún motivo me
+           miraban todo el rato  
            con ojos que irradiaban odio, rabia. No sabría bien
 	  cómo describirlo. <br /><br />
           El viernes siguiente estábamos a punto de terminar nuestra 

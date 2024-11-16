@@ -8,8 +8,8 @@
           las boyacenses. Está untada de 
           ritmos, de cuerdas que vibran y entonan los más 
           bellos acordes de una región demarcada por Los
-          Andes. Estoy aquí para contarles lo que he descu- 
- 	  bierto en este camino, pues al final he vivido 
+          Andes. Estoy aquí para contarles lo que he descubierto
+	  en este camino, pues al final he vivido 
           esta historia para poder también compartirla con 
           ustedes, los que me leen. <br />
           <br />
@@ -35,14 +35,15 @@
             servía más de cocina. A veces se iba el agua por días 
             y teníamos que viajar en un renól 12 tan caprichoso 
             como los perros de la finca cuando no les servían la 
-            sopa a tiempo. Hacía ruidos, molestaba para arran- 
-            car y, casi siempre, tocaba empujarlo medio cami- 
-            no porque se recalentaba. Normalmente íbamos a 
+            sopa a tiempo. Hacía ruidos, molestaba para arrancar y, 
+	    casi siempre, tocaba empujarlo medio camino porque se recalentaba. Normalmente íbamos a 
             Yopal, comprábamos bolsas de agua de cinco litros 
             hasta llenar el maletero y nos devolvíamos a la hora 
             de las garzas. Mi papá siempre me compraba unas 
             galletas con punta de chocolate sin que me diera 
-            cuenta. Una vez el sol se apagaba y las garzas lle-
+            cuenta. Una vez el sol se apagaba y las garzas llegaban en bandadas a descansar, sacaba de uno de 
+            sus bolsillos una bolsa de papel donde guardaba las 
+            galletitas. Yo disfrutaba de la vista y la comida. Fuimos muy felices cada una de esas tardes. <br /><br />
           </p>
           <div class="page_number">12</div>
         </div>

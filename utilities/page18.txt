@@ -3,27 +3,25 @@
 <!--BACK-->
 <p>
 
-          para aún. Varios días pasaron para nosotros antes <br>
-          de amoblar del todo el nuevo hogar. Durante esos <br>
-          días, mi papá salía en la mañana a entregar papeles <br>
-          y alistar lo necesario para el contrato. Con mi mamá <br>
-          caminábamos en las tardes para conocer el barrio <br>
-          y algunos lugares reconocidos. Ahí encontré uno <br>
-          de mis lugares favoritos en Tunja: El Pozo Donato, <br>
-          que, según nos contaban unos señores, era un sitio <br>
-          donde los indígenas de épocas anteriores tiraban <br>
-          piezas de oro al agua como tributo. Dichas piezas <br>
-          se habían perdido en ese pozo que no tenía fondo, <br>
+           Varios días pasaron para nosotros antes
+          de amoblar del todo el nuevo hogar. Durante esos 
+          días, mi papá salía en la mañana a entregar papeles 
+          y alistar lo necesario para el contrato. Con mi mamá 
+          caminábamos en las tardes para conocer el barrio 
+          y algunos lugares reconocidos. Ahí encontré uno 
+          de mis lugares favoritos en Tunja: El Pozo Donato, 
+          que, según nos contaban unos señores, era un sitio 
+          donde los indígenas de épocas anteriores tiraban 
+          piezas de oro al agua como tributo. Dichas piezas 
+          se habían perdido en ese pozo que no tenía fondo, 
           como lo relataban las leyendas. <br><br>
-          Una tarde, lo recuerdo con perfecta nitidez, unos <br>
-          muchachos universitarios estaban dando un peque- <br>
-          ño concierto, algunas personas bailaban en círculos. <br>
-          Ese día conocí la carranga en vivo y en directo, era <br>
-          electrizante. Todos tenían unas guitarras, algunas <br>
-          más grandes, otras más pequeñas. Sonaban con mu- <br>
-          cha fuerza, con una rapidez que convulsionaba los <br>
-          pies de las personas que bailaban alrededor. Fue una <br>
-          experiencia que sin duda me marcó, sobre todo si es <br>
+          Una tarde, lo recuerdo con perfecta nitidez, unos 
+          muchachos universitarios estaban dando un pequeño concierto, algunas personas bailaban en círculos. 
+          Ese día conocí la carranga en vivo y en directo, era 
+          electrizante. Todos tenían unas guitarras, algunas 
+          más grandes, otras más pequeñas. Sonaban con mucha fuerza, con una rapidez que convulsionaba los 
+          pies de las personas que bailaban alrededor. Fue una 
+          experiencia que sin duda me marcó, sobre todo si es 
           que se me ocurre relacionar lo que vendría después.
         </p>
         <div class="page_number">36</div>

@@ -1,24 +1,19 @@
 <p>
 
-          Me parecía increíble que mi abuelo, tan ermitaño <br>
-          como se veía, hubiese sido un señor de andadas, de <br>
-          ir y venir con una guitarrita al hombro encantando <br>
-          personas en pueblos y caminos. <br><br>
-          Nuestra relación no pudo empezar mejor. Para <br>
-          cuando mi papá regresó en la tarde mi abuelo me <br>
-          había enseñado a hacer un Do, un Re y un Mi en el <br>
-          requinto. Hacía los cambios con algo de lentitud y <br>
-          me costaba acomodar bien los dedos en las cuerdas, <br>
-          pero igual conseguía que sonara parecido. Mi papá <br>
-          insistió en qué era hora de irnos después de haber <br>
-          almorzado, yo le entregué el requinto a mi abuelo, <br>
-          pero él, estirando sus dos manos, se negó a recibir- <br>
-          lo. Solo dijo que la siguiente clase era en mi casa, en <br>
+       
+          Nuestra relación no pudo empezar mejor. Para 
+          cuando mi papá regresó en la tarde mi abuelo me 
+          había enseñado a hacer un Do, un Re y un Mi en el 
+          requinto. Hacía los cambios con algo de lentitud y 
+          me costaba acomodar bien los dedos en las cuerdas, 
+          pero igual conseguía que sonara parecido. Mi papá
+          insistió en qué era hora de irnos después de haber 
+          almorzado, yo le entregué el requinto a mi abuelo, 
+          pero él, estirando sus dos manos, se negó a recibirlo. Solo dijo que la siguiente clase era en mi casa, en 
           Tunja. <br><br>
-          En el regreso a casa mi papá me felicitó. Decía <br>
-          que no recordaba haber visto a mi abuelo tan alegre <br>
-          en años, que, aunque dudaba que fuera una bue- <br>
-          na idea, eso del requinto lo había hecho sentir más <br>
+          En el regreso a casa mi papá me felicitó. Decía 
+          que no recordaba haber visto a mi abuelo tan alegre 
+          en años, que, aunque dudaba que fuera una buena idea, eso del requinto lo había hecho sentir más 
           como en familia.
         </p>
         <div class="page_number">51</div>

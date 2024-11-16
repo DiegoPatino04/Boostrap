@@ -1,44 +1,44 @@
 <h3>capitulo IV</h3>
         <P>
-          Empacar todo en cajas, la vida que habíamos <br>
-          construido en el llano se acababa con una llamada <br>
-          al celular de mi papá. Lo curioso era como ellos se <br>
-          veían felices de cambiar su vida por completo. Para <br>
-          ellos era una nueva oportunidad, para mí, por otro <br>
-          lado, era un camino de incógnitas que no termina- <br>
-          ba de resolver. Mis papás me decían que a donde <br>
-          nos íbamos a vivir no tendríamos vacas ni gallinas <br>
-          y que seguramente hasta la música que sonaba en el <br>
-          radio viejo sería diferente. Esto último me causaba <br>
-          intriga, me preguntaba qué música sería esa, cuáles <br>
-          serían los instrumentos que sonaban para despertar <br>
-          a la gente. Quizá no conocían el arpa o no la sabían <br>
-          tocar. Yo tampoco sabía cómo hacerlo, pero en la <br>
-          escuela nos decían que aprenderíamos a tocarla en <br>
-          el tercer grado. Seguro sí conocían las guitarras, mi <br>
-          papá me había contado que tenían una música tra- <br>
-          dicional y que seguro me gustarían las canciones de <br>
-          un tal Veloza. Yo para entonces, me declaraba igno- <br>
-          rante de cualquiera de esas melodías. <br><br>
-          El día del trasteo llegó con un toque de nostal- <br>
-          gia, mis abuelos maternos fueron a despedirnos. Le
+          Empacar todo en cajas, la vida que habíamos 
+          construido en el llano se acababa con una llamada 
+          al celular de mi papá. Lo curioso era como ellos se 
+          veían felices de cambiar su vida por completo. Para 
+          ellos era una nueva oportunidad, para mí, por otro 
+          lado, era un camino de incógnitas que no terminaba de resolver. Mis 
+	  papás me decían que a donde 
+          nos íbamos a vivir no tendríamos vacas ni gallinas 
+          y que seguramente hasta la música que sonaba en el 
+          radio viejo sería diferente. Esto último me causaba 
+          intriga, me preguntaba qué música sería esa, cuáles 
+          serían los instrumentos que sonaban para despertar 
+          a la gente. Quizá no conocían el arpa o no la sabían 
+          tocar. Yo tampoco sabía cómo hacerlo, pero en la 
+          escuela nos decían que aprenderíamos a tocarla en 
+          el tercer grado. Seguro sí conocían las guitarras, mi 
+          papá me había contado que tenían una música tradicional 
+	 y que seguro me gustarían las canciones de 
+          un tal Veloza. Yo para entonces, me declaraba ignorante
+	  de cualquiera de esas melodías. <br><br>
+          El día del trasteo llegó con un toque de nostalgia, mis
+ abuelos maternos fueron a despedirnos. Le decían a mi mamá que no se olvidara de su terruño 
+ y que debía
         </P>
         <div class="page_number">31</div>
 <!--BACK-->
 <div style="margin-right:15px" class="img2_cap">
           <p>
-            decían a mi mamá que no se olvidara de su terruño <br>
-            y que debía recordar que así estuviese a kilómetros, <br>
-            ese pedacito de tierra seguía siendo su casa. Yo tar- <br>
-            daría muchos años en comprender eso de las raíces <br>
-            y como se adhieren a lo que eres. El viaje tomó <br>
-            casi siete horas, pudo haber sido más rápido, pero <br>
-            el renól se recalentó y tuvimos que esperar treinta <br>
-            o cuarenta minutos para que consiguiera arrancar <br>
-            de nuevo. Había dormido plácidamente mientras el <br>
-            halo rojizo del atardecer llanero nos cubría la espal- <br>
-            da. El carro se sentía calientito y cada tanto una gar- <br>
-            za volaba por encima de nosotros como a manera  de despedida. <br>
+            
+            recordar que así estuviese a kilómetros, 
+            ese pedacito de tierra seguía siendo su casa. Yo tardaría
+	    muchos años en comprender eso de las raíces 
+            y como se adhieren a lo que eres. El viaje tomó 
+            casi siete horas, pudo haber sido más rápido, pero 
+            el renól se recalentó y tuvimos que esperar treinta 
+            o cuarenta minutos para que consiguiera arrancar 
+            de nuevo. Había dormido plácidamente mientras el 
+            halo rojizo del atardecer llanero nos cubría la espalda. El carro
+	   se sentía calientito y cada tanto una garza volaba por encima de nosotros como a manera  de despedida.
           </p>
-          <img src="assets/cap4/mapa.png" alt="" />
+          <img style = "margin-top:20px;" src="assets/cap4/mapa.png" alt="" />
           <div class="page_number">32</div>

@@ -2,10 +2,7 @@
         <div class="page_number">41</div>
 <!--BACK-->
 <p>
-	 En la clase siguiente le conté a la profesora que
-	 yo no sabía nada de eso de tocar carranga. Me
-	 puso la mano en el hombro y con una voz más
-	 baja me dijo que todos en algún momento tenemos que aprender de todo. Se giró y caminó
+	 giró y caminó
 	 hacia donde estaban unos tambores arrumados.
 	 Dejándome solo con la duda. <br><br> 
 
@@ -14,21 +11,18 @@
 	 pronto me haría falta aprender a bailarla, pero
 	 se veía un objetivo inalcanzable, no tenía idea de
 	 cómo hacerlo, menos una pareja para intentarlo.<br><br>
-          En un receso le pedí a varios profesores que me <br>
-          contaran qué significaba la carranga para ellos. Las <br>
-          conclusiones me enseñaron que, a diferencia de <br>
-          la mayoría de la música llanera, donde se sentía la <br>
-          fuerza del arpa y los capachos junto con el ritmo de <br>
-          la bandola. La carranga buscaba unos acordes más <br>
-          agudos, también como que menos dulces al oído <br>
-          llanero. Que era como una rumba criolla que arras- <br>
-          traba a los campesinos a mover los pies con peque- <br>
-          ños brincos a lado y lado, junto con unos aleteos <br>
-          de cada brazo que evocaban el ir y venir de la gua- <br>
-          characa. Casi todos mencionaban la importancia de <br>
-          los instrumentos que se usaban para interpretar una <br>
-          canción carranguera, pero nadie decía una sola pa- <br>
-          labra del requinto. <br><br>
+          En un receso le pedí a varios profesores que me 
+          contaran qué significaba la carranga para ellos. Las 
+          conclusiones me enseñaron que, a diferencia de 
+          la mayoría de la música llanera, donde se sentía la 
+          fuerza del arpa y los capachos junto con el ritmo de 
+          la bandola. La carranga buscaba unos acordes más 
+          agudos, también como que menos dulces al oído 
+          llanero. Que era como una rumba criolla que arrastraba a los campesinos a mover
+	 los pies con pequeños brincos a lado y lado, junto con unos aleteos 
+          de cada brazo que evocaban el ir y venir de la guacharaca. Casi todos mencionaban la importancia de 
+          los instrumentos que se usaban para interpretar una 
+          canción carranguera, pero nadie decía una sola palabra del requinto. <br><br>
 
         </p>
         <div class="page_number">42</div>

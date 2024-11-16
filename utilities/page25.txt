@@ -1,29 +1,28 @@
  <p>
-          La historia que me contaría a continuación la re- <br>
-          cuerdo casi de memoria: <br><br>
-          “Requintos hay muchos, pero éste es el nuestro, <br>
-          con el que se hace la carranga. Lo de acá, a usted lo <br>
-          criaron en el llano y eso no está mal, pero es que la <br>
-          tierra llama. Con otros tres que tocaban la guitarra, <br>
-          la guacharaca y el cuatro nos íbamos por las veredas <br>
-          y entonábamos ritmos como los que sonaban en el <br>
-          radio. Los Carrangueros de Ráquira sacaban cada <br>
-          tanto nuevas canciones y nosotros nos reuníamos <br>
-          en las tiendas para intentar imitar el sonido de las <br>
-          cuerdas. Ahí nos daban cerveza y a veces merca- <br>
-          do para que les hiciéramos serenatas hasta la media <br>
-          noche. Cuando ya más o menos teníamos listas las <br>
-          canciones nos aventurábamos por las veredas que <br>
-          le digo y en cualquier fiesta o tienda nos sentába- <br>
-          mos a tocar. Entre los cuatro cantábamos, así no <br>
-          se nos escuchaba lo desafinados y, al final, una que <br>
-          otra parejita se nos arrimaba y bailaban frente a nosotros. <br>
-          Yo le agarré cariño al requinto porque era lo <br>
-          único que había en la casa. La guitarra mi papá la <br>
-          había empeñado tiempo atrás para saldar una deu- <br>
-          da. En fin, Tomasito, esto es lo que le queda y usted <br>
+          
+         
+           el llano y eso no está mal, pero es que la tierra llama. Con
+	   otros tres que tocaban la guitarra, 
+          la guacharaca y el cuatro nos íbamos por las veredas 
+          y entonábamos ritmos como los que sonaban en el 
+          radio. Los Carrangueros de Ráquira sacaban cada 
+          tanto nuevas canciones y nosotros nos reuníamos 
+          en las tiendas para intentar imitar el sonido de las 
+          cuerdas. Ahí nos daban cerveza y a veces mercado para que les hiciéramos serenatas hasta la media 
+          noche. Cuando ya más o menos teníamos listas las 
+          canciones nos aventurábamos por las veredas que 
+          le digo y en cualquier fiesta o tienda nos sentábamos a tocar. Entre los cuatro cantábamos, así no 
+          se nos escuchaba lo desafinados y, al final, una que 
+          otra parejita se nos arrimaba y bailaban frente a nosotros. 
+          Yo le agarré cariño al requinto porque era lo 
+          único que había en la casa. La guitarra mi papá la 
+          había empeñado tiempo atrás para saldar una deuda. En fin, Tomasito, esto es lo que le queda y usted 
           verá si le saca provecho ¡Será que le gana lo llanero
           o lo boyacense!” <br><br>
+	    Me parecía increíble que mi abuelo, tan ermitaño 
+          como se veía, hubiese sido un señor de andadas, de 
+          ir y venir con una guitarrita al hombro encantando 
+          personas en pueblos y caminos. 
         </p>
         <div class="page_number">49</div>
 <!--BACK-->

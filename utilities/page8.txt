@@ -2,30 +2,27 @@
 
 <div class="front_1">
         <p>
-          Los primeros meses fueron duros, mis abuelos 
-          maternos no estaban contentos con el embarazo. 
-          Les preocupaba el futuro del trabajo en la alcaldía, 
-          hacían mucho énfasis en que no había un solo lugar 
-          en el que quisieran a una mujer gestante y, siento 
-          que no se equivocaban. A los pocos meses de haber 
-          nacido le hicieron la vida imposible a mi mamá en 
-          el puesto, hasta que tuvo que renunciar. <br /><br />
+       
           Al principio rentaron un apartamento cerca al 
           centro, pero la bulla y los sonidos de los carros no 
           dejaban dormir a mi mamá. Eso no era lo único, 
-          también estaban los antojos, a veces eran aguaca- 
-          tes, otras veces fresas con arequipe. Mi mamá me
+          también estaban los antojos, a veces eran aguacates, 
+	 otras veces fresas con arequipe. Mi mamá me
           cuenta que una noche tuvo tantas ganas de comer 
           bocadillo veleño que sentía nauseas de tan solo ver 
           cualquier comida que no fuese la que añoraba. Mi 
           papá, por otro lado, recuerda esas noches con algo 
           de fastidio. Le encanta decir que estuvo a punto de 
-          tomar una bicicleta y perderse llano adentro. Segu- 
-          ro allá encontraría una que otra guayaba para hacer 
+          tomar una bicicleta y perderse llano adentro. Seguro 
+	allá encontraría una que otra guayaba para hacer 
           el bocadillo. <br /><br />
           Para cuando la semana cuarenta se acercaba, mi 
           papá había conseguido un segundo piso en una 
-          casa fuera del centro. Varios amigos y familiares se <br />
+          casa fuera del centro. Varios amigos y familiares se
+	  acercaron para desearle buena suerte a mi mamá en 
+          el parto. Según lo que conozco de la historia, todo 
+          el proceso duró dos días. Mis abuelos ya no estaban 
+          tan inconformes cuando me vieron por primera vez.
         </p>
         <div class="page_number">15</div>
       </div>
@@ -33,10 +30,4 @@
 <!--BACK-->
 
 
- <p>
-          acercaron para desearle buena suerte a mi mamá en 
-          el parto. Según lo que conozco de la historia, todo 
-          el proceso duró dos días. Mis abuelos ya no estaban 
-          tan inconformes cuando me vieron por primera vez.
-        </p>
         <div class="page_number">16</div>

@@ -1,51 +1,44 @@
 <div class="img7_cap">
         <p>
-          cusión. Para mí que era al revés, la percusión <br>
-           iba a pasos de tortuga y nos hacía quedar mal. <br><br>
-           Luego el problema fue la voz, los tonos eran más <br>
-           bajos que la afinación de nuestra cantante y eso nos <br>
-           hacía sonar dispares. La música, por un lado, la voz <br>
+          
+           
+           Luego el problema fue la voz, los tonos eran más 
+           bajos que la afinación de nuestra cantante y eso nos 
+           hacía sonar dispares. La música, por un lado, la voz 
            por el otro. No podíamos ponernos de acuerdo. <br><br>
         </p>
         <img style="height:200px; width:250px; margin-left:30px;" src="assets/cap7/abrazo.png" alt="">
         <p>
-          Tras salir del colegio, mis nuevos amigos me acom- <br>
-          pañaron hasta el barrio donde vivía. Ahí nos separá- <br>
-          bamos para cada uno llegar a la casa. Mi mamá me <br>
-          decía que me notaba más feliz y sí, sí lo estaba. Ya <br>
-          era parte de un grupo, tenía amigos como cuando <br>
-          vivía en el llano y la verdad que el frío cada vez me <br>
-          afectaba menos, a pesar de que los pies y las manos <br>
-          aún se me congelaran en cuanto cruzaba el umbral <br>
+          Tras salir del colegio, mis nuevos amigos me acompañaron hasta el barrio
+	  donde vivía. Ahí nos separábamos para cada uno llegar a la casa. Mi mamá me 
+          decía que me notaba más feliz y sí, sí lo estaba. Ya 
+          era parte de un grupo, tenía amigos como cuando 
+          vivía en el llano y la verdad que el frío cada vez me 
+          afectaba menos, a pesar de que los pies y las manos 
+          aún se me congelaran en cuanto cruzaba el umbral 
           de la puerta de mi casa para salir al colegio.
         </p>
        </div>
        <div class="page_number">57</div>
 <!--BACK-->
 <p>
-          Sin embargo, así como mi mamá podía sentir mi <br>
-          nueva sensación de felicidad, podía presentir cuan- <br>
-          do me alcanzaba la preocupación. Tuve que con- <br>
-          tarle que me angustiaba no poder ser lo suficiente- <br>
-          mente bueno tocando el requinto y que, quizá, no <br>
-          era capaz de siquiera participar en una presentación <br>
+          Sin embargo, así como mi mamá podía sentir mi 
+          nueva sensación de felicidad, podía presentir cuando me alcanzaba
+	  la preocupación. Tuve que contarle que me angustiaba no poder ser lo suficientemente bueno tocando el requinto y que, quizá, no 
+          era capaz de siquiera participar en una presentación 
           del colegio. <br><br>
-          Mi mamá me  pidió sentarme frente a ella. Me <br>
-          miró a los ojos como nunca lo había hecho y me <br>
-          preguntó si realmente quería tocar el requinto o si <br>
-          solo sentía que era una obligación heredada por la <br>
-          presencia de mi abuelo y el no querer decepcionar- <br>
-          lo. Yo bajé la cabeza y me fui a mi cuarto. No había <br>
-          considerado si es que todo ese tema del requinto y <br>
-          querer pertenecer a la boyacensidad en realidad era <br>
+          Mi mamá me  pidió sentarme frente a ella. Me 
+          miró a los ojos como nunca lo había hecho y me 
+          preguntó si realmente quería tocar el requinto o si 
+          solo sentía que era una obligación heredada por la 
+          presencia de mi abuelo y el no querer decepcionarlo. Yo bajé la cabeza y me fui a mi cuarto. No había 
+          considerado si es que todo ese tema del requinto y 
+          querer pertenecer a la boyacensidad en realidad era 
           un capricho o un deseo del alma. <br><br>
-          Esa noche me costó dormir, pensaba en las pala- <br>
-          bras de mi mamá. Me recordaba que lo importante <br>
-          en la vida  era no compaginar con los deseos que los <br>
-          demás nos imponían. Realmente no entendía muy <br>
-          bien cómo funcionaba ese tema de acudir a las pro- <br>
-          yecciones  de los otros, a la larga yo era un niño y <br>
-          una de las condiciones de la niñez es seguir las ins- <br>
-          trucciones que los adultos nos dan.
+          Esa noche me costó dormir, pensaba en las palabras de mi mamá. Me recordaba que lo importante 
+          en la vida  era no compaginar con los deseos que los 
+          demás nos imponían. Realmente no entendía muy 
+          bien cómo funcionaba ese tema de acudir a las proyecciones  de los otros, a la larga yo era un niño y 
+          una de las condiciones de la niñez es seguir las instrucciones que los adultos nos dan.
         </p>
         <div class="page_number">58</div>

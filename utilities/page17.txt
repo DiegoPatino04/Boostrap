@@ -1,56 +1,46 @@
  <p>
-          El sueño se escapó de mi tan pronto el frío de <br>
-          las montañas hizo que los vidrios se polarizaran <br>
-          con nuestro calor corporal, quizá lo último que nos <br>
-          quedaba de nuestra estadía en el llano. Las plani- <br>
-          cies se habían disipado y el terreno comenzó a le- <br>
-          vantarse bruscamente. El cielo se veía más gris y <br>
-          un verde claro, intenso, inundaba nuestros ojos. Me <br>
-          sentí incomodo al principio, le pregunté a mi papá <br>
-          si ese frío era de todos los días. Riéndose, me res- <br>
-          pondió que mejor me fuera acostumbrando, que le <br>
-          recordara que necesario comprar chaquetas y sacos <br>
+          El sueño se escapó de mi tan pronto el frío de 
+          las montañas hizo que los vidrios se polarizaran 
+          con nuestro calor corporal, quizá lo último que nos 
+          quedaba de nuestra estadía en el llano. Las planicies
+	  se habían disipado y el terreno comenzó a levantarse bruscamente.
+	  El cielo se veía más gris y 
+          un verde claro, intenso, inundaba nuestros ojos. Me 
+          sentí incomodo al principio, le pregunté a mi papá 
+          si ese frío era de todos los días. Riéndose, me respondió que mejor me fuera acostumbrando, que le 
+          recordara que necesario comprar chaquetas y sacos
 	  en el centro de la ciudad.<br><br>
-          Lo primero que noté de Tunja era el color de las <br>
-          casas, una mezcla entre un blanco y un gris que por <br>
-          momentos se alternaba con un amarillo opaco. Casi <br>
-          en sincronía con el cielo que ocultaba el sol como <br>
-          si estuvieran enemistados. Nuestro destino era una <br>
-          casa que quedaba en una calle elevada, por las ven- <br>
-          tanas se podía ver una de las montañas que lleva- <br>
-          ban a Soracá, un pueblo que conocí los primeros <br>
-          días que estuvimos en la ciudad. Esa primera noche <br>
-          fue fatal, no alcanzaron las cobijas para enrollarme <br>
+          Lo primero que noté de Tunja era el color de las 
+          casas, una mezcla entre un blanco y un gris que por 
+          momentos se alternaba con un amarillo opaco. Casi
+          en sincronía con el cielo que ocultaba el sol como 
+          si estuvieran enemistados. Nuestro destino era una 
+          casa que quedaba en una calle elevada, por las ventanas se podía ver
+	  una de las montañas que llevaban a Soracá, un pueblo que conocí los primeros 
+          días que estuvimos en la ciudad. Esa primera noche 
+          fue fatal, no alcanzaron las cobijas para enrollarme 
           y combatir ese aire helado que sobrepoblaba cada    
-       rincón de la ciudad y que se filtraba por debajo de <br>
-          las puertas y los pequeños huecos que se quedan en <br>
-          los vidrios de las ventanas. Si dormí tres horas 
+       rincón de la ciudad y que se filtraba por debajo de 
+          las puertas y los pequeños huecos que se quedan en 
+          los vidrios de las ventanas. Si dormí tres horas de corrido
         </p>
         <div class="page_number">33</div>
 <!--BACK-->
  <p>
-	  de corrido debo decir que fue mucho. A las seis de la <br>
+	   debo decir que fue mucho. A las seis de la 
           mañana me atacó el hambre y no pude dormir más. <br> <br>
-          Esa primera mañana salimos los tres por el desa- <br>
-          yuno, la niebla mezclada con el rocío terminaba <br>
-          de disiparse. Me sentía mal, lo suficiente para empezar <br>
-          con los reproches, hice pataleta como pocas veces <br>
-          en mi vida. Primero ya no quería comer nada, lue- <br>
-          go ya no quería nada de lo que me habían servido. <br>
-          Mi papá fue paciente conmigo; pero mi mamá, por <br>
-          otro lado, no se veía muy contenta con mi compor- <br>
-          tamiento. Me pellizcó por debajo del brazo, donde <br>
-          más duele, me dijo que ya era suficiente con la bo- <br>
-          bada y que, si no comía lo del desayuno, menos me <br>
-          iban a ofrecer al almuerzo. Fruncí el ceño y me <br>
-          tomé el caldo a cucharadas lentas, pausadas, espe <br>
-          rando que eso demostrara mi desgana. <br><br>
-          Caja por caja fuimos desempacando lo que traía <br>
-          el camión... la ropa, la loza, unos libros y unas co- <br>
-          bijas. Luego con mi papá armamos algunos de los <br>
-          muebles al tiempo que mi mamá organizaba la co- <br>
-          cina. En algún momento pregunté cuál iba a ser el <br>
-	  nuevo colegio en el que me tocaría estudiar. Me di- <br>
-          jeron que lo sabría muy pronto, que no me preocu- <br>
+          Esa primera mañana salimos los tres por el desayuno, la niebla mezclada con el rocío terminaba 
+          de disiparse. Me sentía mal, lo suficiente para empezar 
+          con los reproches, hice pataleta como pocas veces 
+          en mi vida. Primero ya no quería comer nada, luego ya no quería nada de lo que me habían servido. 
+          Mi papá fue paciente conmigo; pero mi mamá, por 
+          otro lado, no se veía muy contenta con mi comportamiento. Me pellizcó por debajo del brazo, donde 
+          más duele, me dijo que ya era suficiente con la bobada y que, si no comía lo del desayuno, menos me 
+          iban a ofrecer al almuerzo. Fruncí el ceño y me 
+          tomé el caldo a cucharadas lentas, pausadas, esperando que eso demostrara mi desgana. <br><br>
+          Caja por caja fuimos desempacando lo que traía 
+          el camión... la ropa, la loza, unos libros y unas cobijas. Luego con mi papá armamos algunos de los 
+          muebles al tiempo que mi mamá organizaba la cocina. En algún momento pregunté cuál iba a ser el 
+	  nuevo colegio en el que me tocaría estudiar. Me dijeron que lo sabría muy pronto, que no me preocupara aún.
         </p>
         <div class="page_number">34</div>

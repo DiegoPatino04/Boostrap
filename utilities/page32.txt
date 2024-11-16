@@ -1,5 +1,5 @@
 <p>
-          cluso la noche previa tuve una pesadilla en la que 
+           noche previa tuve una pesadilla en la que 
           todas las cuerdas del requinto se reventaban a la 
           mitad del concierto. Yo me tiraba al piso e intenta- 
           ba recuperar los pedacitos de alambre, pero se me 
@@ -49,6 +49,8 @@
           asistentes se pararon de sus puestos y bailaron mo- 
           viéndose de izquierda a derecha <br><br>
           Cuando terminamos, escuchamos a la directora 
-          de curso susurrándonos que hiciéramos la venia.
+          de curso susurrándonos que hiciéramos la venia. Así que nos paramos al borde de la tarima y nos 
+          tomamos de las manos, al agacharnos frente a los 
+          asistentes, los aplausos
         </p>
         <div class="page_number">64</div>

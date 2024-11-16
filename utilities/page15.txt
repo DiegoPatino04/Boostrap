@@ -1,41 +1,39 @@
  <p>
-          man de querer ir detrás mío. La sensación de miedo <br>
-          era latente. A fin de cuentas, era apenas un niño. <br>
-          Esa tarde mi papá me recogió, por alguna razón no <br>
-          dejaba de hablar, supe que estaba feliz, aunque no <br>
+           
+          dejaba de hablar, supe que estaba feliz, aunque no 
           supe por qué en ese momento. <br><br>
-          Llegamos a la casa y mi mamá nos recibió con un <br>
-          abrazo gigante. En un primer momento hasta llegué <br>
-          a pensar que nos habíamos ganado la lotería. Las <br>
-          ansias me empezaban a ganar, más porque ninguno <br>
-          de los dos me decía algo. Simplemente pasamos a <br>
-          la mesa a tomarnos un vaso de jugo que mi mamá <br>
-          tenía enfriando en la nevera. Allí, los dos me toma- <br>
-          ron de las manos, empezaron a hablar recordando <br>
-          lo mucho que nos gustaba la finca que nos había <br>
-          heredado el abuelo materno. Lo agradable que eran <br>
-          los atardeceres llaneros y lo rico que sabía la carne <br>
-          que se preparaba por esos lados. Entonces, mi papá <br>
-          tomó la palabra, hablaba con un tono más altivo y <br>
-          alegre del que nos tenía acostumbrados. Me pregun- <br>
-          tó de manera retórica si había algo que me gustara <br>
-          de vivir en la ciudad. Yo no conocía casi nada, así <br>
-          que no supe qué responder. No pasó mucho antes <br>
-          de que interrumpiera de nuevo para decirme, esta <br>
+          Llegamos a la casa y mi mamá nos recibió con un 
+          abrazo gigante. En un primer momento hasta llegué 
+          a pensar que nos habíamos ganado la lotería. Las 
+          ansias me empezaban a ganar, más porque ninguno 
+          de los dos me decía algo. Simplemente pasamos a 
+          la mesa a tomarnos un vaso de jugo que mi mamá 
+          tenía enfriando en la nevera. Allí, los dos me tomaron de 
+	  las manos, empezaron a hablar recordando 
+          lo mucho que nos gustaba la finca que nos había 
+          heredado el abuelo materno. Lo agradable que eran 
+          los atardeceres llaneros y lo rico que sabía la carne 
+          que se preparaba por esos lados. Entonces, mi papá 
+          tomó la palabra, hablaba con un tono más altivo y 
+          alegre del que nos tenía acostumbrados. Me preguntó de 
+	  manera retórica si había algo que me gustara 
+          de vivir en la ciudad. Yo no conocía casi nada, así
+          que no supe qué responder. No pasó mucho antes 
+          de que interrumpiera de nuevo para decirme, esta 
           vez mirándome fijamente, que nos íbamos a vivir
+	  a Tunja, que uno de sus conocidos de la policía le 
+          había conseguido trabajo y que todo pintaba muy 
+          bien para crecer como familia.
         </p>
         <div class="page_number">29</div>
 <!--BACK-->
  <p>
-          a Tunja, que uno de sus conocidos de la policía le <br>
-          había conseguido trabajo y que todo pintaba muy <br>
-          bien para crecer como familia. <br><br>
-          No supe muy bien como asimilar la noticia del <br>
-          cambio de lugar, el cambio de paisaje y, sobre todo, <br>
-          el dejar atrás lo que conocía desde la infancia, me <br>
-          parecía un poco extraño. Lo único que sentí fue el <br>
-          fresquito del aire en el pecho de saber que los ma- <br>
-          toncitos de la escuela ya no me alcanzarían, por más <br>
+          No supe muy bien como asimilar la noticia del 
+          cambio de lugar, el cambio de paisaje y, sobre todo, 
+          el dejar atrás lo que conocía desde la infancia, me 
+          parecía un poco extraño. Lo único que sentí fue el 
+          fresquito del aire en el pecho de saber que los matoncitos
+	 de la escuela ya no me alcanzarían, por más 
           que quisiesen perseguirme.
         </p>
         <div class="page_number">30</div>
