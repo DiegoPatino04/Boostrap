@@ -90,6 +90,6 @@ body {
 
 /* Additional layout */
 .footer .row div {
-    color: #4F0471; /* Color de texto */
+    color: white; /* Color de texto */
     font-size: 1.1rem;
 }
