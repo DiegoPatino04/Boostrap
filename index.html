@@ -11,7 +11,7 @@
 
 <body>
     <header class="header">
-        <img src="assets/descarga.jpeg" alt="Encabezado de página" class="w-100">
+        <img src="assets/cap8/tomas1.png" alt="Encabezado de página" class="w-100">
     </header>
 
     <nav class="menu fixed-top">
@@ -24,6 +24,23 @@
                 <a class="dropdown-item" href="Gallery.html">Gallery</a>
             </div>
         </div>
+        <div class="dropdown">
+            <button class="btn btn-primary btn-sm dropdown-toggle" type="button" id="dropdownChaptersButton"
+                aria-expanded="false" onclick="toggleMenu('chapters')">
+                Capítulos
+            </button>
+            <div id="dropdownChapters" class="dropdown-menu" aria-labelledby="dropdownChaptersButton">
+                <button class="dropdown-item" onclick="goToSpecificPage('Book.html#page6')">Cap 1</button>
+                <a class="dropdown-item" href="#page9">Capítulo 2</a>
+                <a class="dropdown-item" href="#page11">Capítulo 3</a>
+                <a class="dropdown-item" href="#page15">Capítulo 4</a>
+                <a class="dropdown-item" href="#page18">Capítulo 5</a>
+                <a class="dropdown-item" href="#page22">Capítulo 6</a>
+                <a class="dropdown-item" href="#page26">Capítulo 7</a>
+                <a class="dropdown-item" href="#page30">Capítulo 8</a>
+            </div>
+        </div>
+
     </nav>
 
     <main class="container text-center mt-5">

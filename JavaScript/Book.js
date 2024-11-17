@@ -34,9 +34,27 @@ const flipBook = (elBook) => {
             updatePage(currentPage + 1);
         }
     });
+
+    // Función para ir a una página específica desde el dropdown
+    const goToSpecificPage = (pageId) => {
+        const pageIndex = parseInt(pageId.replace("page", "")) - 1;
+        updatePage(pageIndex);
+    };
+
+    // Vincular los enlaces del dropdown con la función de navegación
+    document.querySelectorAll(".dropdown-item").forEach((item) => {
+        const href = item.getAttribute("href");
+        if (href && href.startsWith("#page")) {
+            item.addEventListener("click", (event) => {
+                event.preventDefault(); // Prevenir el comportamiento por defecto del enlace
+                goToSpecificPage(href.substring(1)); // Pasar el ID de la página
+            });
+        }
+    });
 };
 
 document.querySelectorAll(".book").forEach(flipBook);
+
 
 async function loadBookContent(pageId) {
     try {
