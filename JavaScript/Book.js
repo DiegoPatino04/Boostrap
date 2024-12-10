@@ -41,6 +41,7 @@ const flipBook = (elBook) => {
     } else if (event.key === "ArrowRight") {
       updatePage(currentPage + 1);
     } else if (event.code === "Space") {
+      event.preventDefault();
       toggleAudio();
     }
   });
