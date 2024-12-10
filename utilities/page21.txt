@@ -2,7 +2,7 @@
         <div class="page_number">41</div>
 <!--BACK-->
 <p>
-	 giró y caminó
+	 Se giró y caminó
 	 hacia donde estaban unos tambores arrumados.
 	 Dejándome solo con la duda. <br><br> 
 
