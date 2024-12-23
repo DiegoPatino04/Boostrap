@@ -8,7 +8,5 @@
         </p>
         <div class="page_number">65</div>
 <!--BACK-->
-<div  class="img10_cap">
-          <img style="margin-right:0px" src="assets/cap8/Negrilla p1.png" alt="">
-        </div>
+
         <div class="page_number">66</div>

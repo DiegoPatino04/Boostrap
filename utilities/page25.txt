@@ -1,9 +1,8 @@
  <p>
           
          
-           el llano y eso no está mal, pero es que la tierra llama. Con
-	   otros tres que tocaban la guitarra, 
-          la guacharaca y el cuatro nos íbamos por las veredas 
+           
+	   cuatro nos íbamos por las veredas 
           y entonábamos ritmos como los que sonaban en el 
           radio. Los Carrangueros de Ráquira sacaban cada 
           tanto nuevas canciones y nosotros nos reuníamos 
@@ -19,10 +18,11 @@
           había empeñado tiempo atrás para saldar una deuda. En fin, Tomasito, esto es lo que le queda y usted 
           verá si le saca provecho ¡Será que le gana lo llanero
           o lo boyacense!” <br><br>
-	    Me parecía increíble que mi abuelo, tan ermitaño 
+	  Me parecía increíble que mi abuelo, tan ermitaño 
           como se veía, hubiese sido un señor de andadas, de 
           ir y venir con una guitarrita al hombro encantando 
-          personas en pueblos y caminos. 
+          personas en pueblos y caminos. <br><br>
+	 
         </p>
         <div class="page_number">49</div>
 <!--BACK-->

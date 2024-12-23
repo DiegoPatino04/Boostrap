@@ -55,15 +55,7 @@
               alt=""
             />
           </div>
-          <div
-            style="padding-left: 0%; padding-top: 0%; padding-bottom: 0%"
-            class="back"
-          >
-            <img
-              src="assets/portada_y_contraportada/contraportada con texto.png"
-              alt=""
-            />
-          </div>
+          <div class="back"></div>
         </div>
         <div class="page" data-page="page2">
           <div class="front">
@@ -329,7 +321,7 @@
         </div>
         <div class="page" data-page="page9">
           <div class="front">
-            <h3>capitulo II</h3>
+            <h3>CAPÍTULO II</h3>
             <div class="cap2">
               <img src="assets/cap2/cap2/cap2.png" alt="" />
             </div>
@@ -401,23 +393,33 @@
           <div class="back"></div>
         </div>
         <div class="page" data-page="page26">
-          <div class="front"></div>
+          <div class="front">
+            <audio src="audio/page26.mp3"></audio>
+          </div>
           <div class="back"></div>
         </div>
         <div class="page" data-page="page27">
-          <div class="front"></div>
+          <div class="front">
+            <audio src="audio/page27.mp3"></audio>
+          </div>
           <div class="back"></div>
         </div>
         <div class="page" data-page="page28">
-          <div class="front"></div>
+          <div class="front">
+            <audio src="audio/page28.mp3"></audio>
+          </div>
           <div class="back"></div>
         </div>
         <div class="page" data-page="page29">
-          <div class="front"></div>
+          <div class="front">
+            <audio src="audio/page29.mp3"></audio>
+          </div>
           <div class="back"></div>
         </div>
         <div class="page" data-page="page30">
-          <div class="front"></div>
+          <div class="front">
+            <audio src="audio/page30.mp3"></audio>
+          </div>
           <div class="back"></div>
         </div>
         <div class="page" data-page="page31">
@@ -430,10 +432,13 @@
         </div>
         <div class="page" data-page="page33">
           <div class="front"></div>
-          <div class="back"></div>
+          <div class="back" style="padding-right: 0%;"> 
+            <img style="margin-right:0px; height: 230px; width: 350px;margin-left: 1.49rem; margin-top: 130px;" src="assets/cap8/Negrilla p1.png" alt=""></div>
         </div>
         <div class="page" data-page="page34">
-          <div class="front"></div>
+          <div class="front">
+             <img style="margin-left:0px; margin-right:3rem; height: 230px; width: 350px; margin-top: 130px;" src="assets/cap8/Negrilla p2.png" alt="">
+          </div>
           <div class="back"></div>
         </div>
         <div class="page" data-page="page35">
@@ -449,7 +454,11 @@
           <div class="back"></div>
         </div>
         <div class="page" data-page="page38">
-          <div class="front"></div>
+          <div class="front"style="padding:0%">
+              <img style="height:100% ; width:100%; margin:0;"
+              src="assets/portada_y_contraportada/contraportada con texto.png"
+              alt=""/>     
+
           <div class="back"></div>
         </div>
       </div>
@@ -459,51 +468,39 @@
       <button id="nextBtn" class="btn btn-secondary">Next</button>
     </div>
 
-    <footer class="footer bg-dark text-light">
-      <div class="footer-content">
-        <h3>Libro digital.</h3>
+        <footer class="footer bg-dark text-light">
+    <div class="footer-content">
         <div class="row">
-          <div class="col">
             <div class="col">
-              <strong>Escrito e ilustrado por:</strong>
-              <ul>
-                <li>Juan Diego Suárez Acevedo</li>
-                <li>Jonattan Méndez González</li>
-              </ul>
+                <div class="col">
+                    <strong>Escrito e ilustrado por:</strong>
+                    <ul>
+                        <li>Juan Diego Suárez Acevedo</li>
+                        <li>Jonattan Méndez González</li>
+                    </ul>
+                </div>
+                <strong>Desarrollado por:</strong>
+                <ul>
+                    <li>Gustavo Andres Barrera Arcos</li>
+                    <li>Diego Alejandro Patiño Vega</li>
+                </ul>
             </div>
-            <strong>Developed by:</strong>
-            <ul>
-              <li>Gustavo Andres Barrera Arcos</li>
-              <li>Diego Alejandro Patiño Vega</li>
-            </ul>
-          </div>
-          <div class="col">
-            <strong>About the Developers:</strong>
-            <ul>
-              <li>Idea original, Ilustrador, co-escritor, diagramación.</li>
-              <li>
-                Co-escritor, corrector de estilo, editor, tallerista, voz audio
-                libro.
-              </li>
-              <br />
-              <li>
-                Estudiantes de Ingeniería de Sistemas y Computación, Universidad
-                Pedagógica y Tecnológica de Colombia
-              </li>
-            </ul>
-          </div>
+            <div class="col">
+                <strong>Acerca de los Desarrolladores:</strong>
+                <ul>
+                    <li>Idea original, Ilustrador, co-escritor, diagramación.</li>
+                    <li>Co-escritor, corrector de estilo, editor, tallerista, voz audio libro.</li>
+                    <br>
+                    <li>Estudiantes de Ingeniería de Sistemas y Computación, Universidad Pedagógica y Tecnológica de
+                        Colombia</li>
+                </ul>
+            </div>
         </div>
-        <div class="footer-logos d-flex justify-content-start gap-3 mt-3">
-          <img src="assets/escudofinal.png" alt="Logo" class="img-fluid logo" />
-          <img
-            src="assets/MINEdu logo.png"
-            alt="MINEdu logo"
-            class="img-fluid logo"
-          />
+        <div class="footer-logos">
+            <img src="assets/MINEdu logo.png" alt="MINEdu logo" class="img-fluid logo">
         </div>
-      </div>
-    </footer>
-
+    </div>
+</footer>
     <script src="JavaScript/Menu.js"></script>
     <script src="JavaScript/Book.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

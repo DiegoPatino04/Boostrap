@@ -1,4 +1,4 @@
-<div class="img12_cap">
+<div  style="height: 80px; width:100px; margin-bottom:0px;margin-top:450px; margin-left:130px" >
           <img src="assets/MINEdu logo.png" alt="">
         </div>
         <div class="page_number">69</div>

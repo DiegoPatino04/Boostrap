@@ -1,5 +1,5 @@
 <!--FRONT-->
-        <h3>Capitulo 1</h3>
+        <h3>CAPÍTULO I</h3>
         <p>
           Esta historia se narra, en cuestión de territorios,
           de manera ascendente, arranca en las planicies de 

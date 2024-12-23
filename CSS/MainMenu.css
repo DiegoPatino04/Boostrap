@@ -1,95 +1,111 @@
-/* Basic styling and colors */
 body {
-    background-color: white; /* Color de fondo */
-    color: #4F0471; /* Color de texto */
+    background-color: white;
+    color: black;
     margin: 0;
     font-family: Arial, sans-serif;
 }
 
-/* Header styling */
 .header img {
     width: 100%;
     height: 200px;
     object-fit: cover;
 }
 
-/* Main title styling */
 .main-title {
-    color: #2CAFE6; /* Color principal */
+    color: #2CAFE6;
     font-size: 3rem;
     font-weight: bold;
     margin-top: 1.5rem;
 }
 
-/* Subtitle styling */
+h2{
+    color: #2CAFE6;
+    font-size: 45px;
+}
 .subtitle {
-    color: #4F0471; /* Color de texto */
+    color: #4F0471;
     font-size: 2rem;
     text-align: left;
     margin-left: 2rem;
 }
 
-/* Text styling for paragraphs */
 .text-justify {
     font-size: 1.25rem;
     margin: 1.5rem 2rem;
     text-align: justify;
 }
 
-/* Menu styling */
 .menu {
-    background-color: #2CAFE6; /* Color principal */
-    padding: 0.25rem; /* Reduce el padding */
-    display: flex; /* Usar flexbox para mejor alineación */
-    align-items: center; /* Centrar verticalmente */
-    position: relative; /* Asegura que el dropdown se posicione correctamente */
+    background-color: #2CAFE6;
+    padding: 0.25rem;
+    display: flex;
+    align-items: center;
+    position: relative;
 }
 
 .menu .btn {
     color: white;
     font-weight: bold;
-    background-color: #2CAFE6; /* Color principal */
+    background-color: #2CAFE6;
     border: none;
     border-radius: 20px;
-    padding: 0.5rem 1rem; /* Ajustar el padding del botón */
+    padding: 0.5rem 1rem;
 }
 
 .menu .dropdown-menu {
-    background-color: #E68F2C; /* Color secundario */
-    position: absolute; /* Asegura que el menú se despliegue correctamente */
+    background-color: #E68F2C;
+    position: absolute;
 }
 
 .menu .dropdown-item {
-    color: #4F0471; /* Color de texto */
+    color: #4F0471;
 }
 
 .menu .dropdown-item:hover {
-    background-color: #FFD8A0; /* Color de hover */
+    background-color: #FFD8A0;
 }
 
-/* Footer styling */
+
 .footer {
-    background-color: #2CAFE6; /* Color principal */
-    padding: 2rem 0;
+    background-color: #2CAFE6;
+    padding-right: 2rem ;
+    padding-right: 1.5rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 .footer h3 {
-    color: #E68F2C; /* Color secundario */
+    color: #E68F2C;
     text-align: center;
 }
 
 .footer-content {
     max-width: 1200px;
     margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .footer .logo {
-    width: 50px;
-    height: auto;
+    width: 250px;
+    height: 195px;
+    margin-left: 3px;
 }
 
-/* Additional layout */
+.footer .row {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
 .footer .row div {
-    color: white; /* Color de texto */
+    color: white;
     font-size: 1.1rem;
+}
+
+.footer-logos {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
 }
