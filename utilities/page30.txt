@@ -17,15 +17,15 @@
           era la respuesta que necesitaba, pues muchas personas llegan a nuestras vidas y a veces nos obsequian 
           un algo que no pensábamos necesitar, pero que nos 
           complementa un poquito el vacío que a ratos sentimos. Así como la presencia de mi abuelo en mi vida 
-          tenía el propósito de demostrarme que sí tengo un lugar en este territorio,
+          tenía el propósito de demostrarme que sí tengo un lugar en este territorio,   el tocar un requinto era el 
+            complemento que me faltaba para hilarme con la 
+            cultura de acá, que también es mía. 
         </p>
         <div class="page_number">59</div>
 <!--BACK-->
 <div class="img8_cap">
           <p>
-             el tocar un requinto era el 
-            complemento que me faltaba para hilarme con la 
-            cultura de acá, que también es mía. <br><br>
+           
             Mis amigos me estaban esperando afuera del salón entre risas por haberme quedado dormido. En 
             ellos la curiosidad por saber si me habían regañado 
             por quedarme dormido se alzaba. Dudaron de mi 
@@ -33,7 +33,7 @@
             no pasaría tanta vergüenza. Yo también me reía, al
             final me gustó sentirme acompañado por el grupo.
           </p>
-          <img style="background-color:transparent; width:110px; height:100px; margin-top:45%; margin-left:28%" src="assets/MINEdu logo.png" alt="">
+          <img style="background-color:transparent; width:110px; height:100px; margin-top:65%; margin-left:28%" src="assets/MINEdu logo.png" alt="">
         </div>
         <div class="page_number">60</div>
       </div>
